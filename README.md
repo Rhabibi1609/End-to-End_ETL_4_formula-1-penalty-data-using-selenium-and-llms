@@ -3,7 +3,7 @@
 This project automates the collection, structuring, and analysis of FIA stewards' decisions for the Formula 1 World Championship (2022–2025). It employs an end-to-end ETL (Extract, Transform, Load) pipeline that scrapes over 3,500 PDF documents from the FIA's dynamic website, converts them to text, and uses Large Language Models (LLMs) to extract structured data into a clean, analyzable format.
 
 ---
-## ✨ Features
+##  Features
 
 * **Automated Web Scraping**: Uses **Selenium** to navigate the JavaScript-rendered FIA documents page, expanding all event panels to access penalty documents.
 * **Bulk PDF Downloading**: Employs **BeautifulSoup** and **Requests** to parse the page source and download all relevant PDF files, intelligently organizing them into `year/grand_prix` folders.
@@ -13,7 +13,7 @@ This project automates the collection, structuring, and analysis of FIA stewards
 * **Exploratory Data Analysis (EDA)**: Includes a script to perform initial data quality assessment on the final dataset using **Pandas**.
 
 ---
-## 🏗️ Project Architecture & Workflow
+##  Project Architecture & Workflow
 
 The project is structured as a sequential ETL pipeline. Each stage produces an output that serves as the input for the next stage, creating a clear and repeatable workflow.
 
@@ -31,13 +31,13 @@ flowchart TD
     I --> J(Step 4: Analyze Data Quality<br><b>04_eda.py</b>);
     J --> K[End];
 
-    style C fill:#9B111E,stroke:#333,stroke-width:2px
-    style E fill:#f9f,stroke:#333,stroke-width:2px
-    style I fill:#f9f,stroke:#333,stroke-width:2px
+    style C fill:#004225,stroke:#333,stroke-width:2px
+    style E fill:#004225,stroke:#333,stroke-width:2px
+    style I fill:#004225,stroke:#333,stroke-width:2px
 ```
 
 ---
-## 📂 Directory Structure
+##  Directory Structure
 
 The project uses a structured directory to separate source code from data at various stages of processing.
 
@@ -69,7 +69,7 @@ The project uses a structured directory to separate source code from data at var
 ```
 
 ---
-## ⚙️ Setup and Installation
+##  Setup and Installation
 
 1.  **Clone the Repository**:
     ```bash
@@ -101,7 +101,7 @@ The project uses a structured directory to separate source code from data at var
     If using `03b_annotator_gemini.py`, set your Google AI Studio API key as an environment variable named `GOOGLE_API_KEY`.
 
 ---
-## 🚀 How to Run the Pipeline
+##  How to Run the Pipeline
 
 Execute the scripts from the `src/` directory in sequence.
 
@@ -146,7 +146,7 @@ python src/04_data_cleaner.py
 ```
 
 ---
-## 📜 Scripts Documentation
+##  Scripts Documentation
 
 ### `01_scraper.py`
 
@@ -244,7 +244,7 @@ flowchart TD
 ```
 
 ---
-## 📊 Data Schema & EDA Insights
+##  Data Schema & EDA Insights
 
 The final dataset contains the following 18 columns, as defined by the LLM prompt:
 
