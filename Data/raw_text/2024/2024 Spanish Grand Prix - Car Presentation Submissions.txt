@@ -1,0 +1,176 @@
+2024 SPANISH GRAND PRIX
+21 - 23 June 2024
+From The FIA Formula One Media Delegate Document 9
+To All Teams, All Officials Date 21 June 2024
+Time 10:53
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Spanish Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Spanish Grand Prix
+ORACLE RED BULL RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+with potentially warm races ahead in Europe, the
+sidepod inlet geometries have been revised based
+Circuit specific -
+1 Sidepod Inlet Revised sidepod inlet geometries upon simualtion results to exploit higher pressure
+Cooling Range
+inlet air for greatest cooling efficiency and
+therefore least number of exit louvre openings.
+Coke/Engine Circuit specific - Change to the engine cover side panels to match the Changes to this region of the car wwere triggered
+2
+Cover Cooling Range new sidepod inelt profiles by the new sidepod inlet geometry.
+Circuit specific - The floor assembly change is to accommodate the
+3 Floor Body Floor altered to meet the new engine cover split line.
+Cooling Range engine cover and sidepod inlet changes
+To exploit available air pressure the beam wing
+Performance - beam wing elements have been extruded into a
+4 Beam Wing span has been increased to meet a new endplate
+Local Load revised endplate geometry
+offering more local load
+Rear Wing Performance - Accommodates a wider span beam wing as
+5 Lower third of the endplate has moved outboard
+Endplate Local Load described above.
+
+MERCEDES-AMG PETRONAS FORMULA ONE TEAM
+No updates submitted for this event.
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Introduction of more loaded Top and Lower Rear
+Wing main and flap profiles. Allowing different
+Circuit specific - Higher Downforce Top Rear Wing and Lower Rear
+1 Rear Wing modulations, this update extends the car polar in
+Drag Range Wing designs
+order to offer more possibilities on mid/high
+downforce tracks.
+The new bodywork features a reworked undercut
+Coke/Engine Performance -
+2 Increased Sidepod / Coke undercut that improves flow quality over the floor edge and
+Cover Flow Conditioning
+towards the back of the car.
+Aim of redistributing front floor fence loading was
+Performance -
+3 Floor Fences Redistributed floor fences camber to improve flow quality delivered to the rear floor /
+Flow Conditioning
+diffuser
+Working in conjunction with the updated front floor
+Performance -
+4 Floor Body Lowered front floor roof fences arrangement, with the objective of
+Flow Conditioning
+improving flow quality towards the back of the car
+This minor geometrical update is an optimization
+Performance - around the improved flow energy coming from
+5 Floor Edge Rearward floor edge volume increased
+Local Load upstream, returning local load gains whilst
+controlling the vorticity release in the diffuser
+Benefitting from tidier upstream flow structures,
+Performance - the diffuser expansion, together with boat and keel
+6 Diffuser Reworked diffuser / boat / keel expansion
+Local Load volumes optimization, has allowed to extract more
+local load gains
+Following the geometry introduced in Imola, the
+Performance - Flow cockpit device has been further optimized and is
+7 Halo Updated halo trailing edge and cockpit device
+Conditioning another step at improving the management of the
+losses travelling downstream
+MCLAREN FORMULA 1 TEAM
+No updates submitted for this event.
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The update to the front corner geometry improves
+Front Performance -
+1 Suspension fairings with revised twist distribution. the local interactions between the suspension
+Suspension Local Load
+fairings and the external duct to improve local load.
+The update to the front corner geometry improves
+Performance -
+2 Front Corner Brake duct scoop and exit update to a new shape. the local interactions between the suspension
+Local Load
+fairings and the external duct to improve local load.
+The revised position of the lower deflector in
+Performance - Lower deflector position modified with a different combination with the changes to the lower edge
+3 Rear Corner
+Local Load lower edge trim applied. offer increased load on the device and surrounding
+areas.
+
+BWT ALPINE F1 TEAM
+No updates submitted for this event.
+WILLIAMS RACING
+No updates submitted for this event.
+VISA CASH APP RB FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The reduced brake cooling requirement for Spain vs
+Monaco or Canda allows smaller ducts to be used.
+Circuit specific - The front brake cooling duct has been reverted to
+1 Front Corner With less air needed for cooling, that energy can be
+Cooling Range the specificiation used prior to Monaco.
+used for efficient downforce generation elsewhere
+on the car.
+The combined change of bodywork & sidepod inlet
+helps to condition the flow over the top of the
+Coke/Engine Performance - The engine cover top surface and lower surface in bodywork and around the side to improve the flow
+2
+Cover Flow Conditioning the area of the sidepods has been reprofiled. to the rear of the car and to the floor edge,
+improving the performance of the floor and rear
+wing.
+In combination with the bodywork, this helps
+Performance - The sidepod leading edge has been reprofiled to suit
+3 Sidepod Inlet improve flow quality passing down the side of the
+Flow Conditioning the new bodywork.
+car.
+The changes made across the forward floor and
+fences modify the load distribution of the forward
+Performance - The height and shape of the forward floor has been
+4 Floor Body floor, generating additional local load whilst
+Local Load updated, with the fences modified to suit.
+minimising any negative effects on downstream
+flow quality.
+A new rear wing for medium-high downforce tracks. Improved efficient load generation of the rear wing,
+Performance -
+5 Rear Wing Rear wing profiles have been redesigned to improve targeting a drag level of interest at this & future
+Local Load
+the pressure coefficient (Cp) profiles for efficiency. events.
+The loading of the beam wing is designed to work in
+Compared to Monaco, the camber & incidence of
+combination with the upper wings expected to be
+Circuit specific - the elements is reduced, positioning this wing as an
+6 Beam Wing used at Spain, to target the appropriate drag level
+Drag Range intermediate step between that used at previous
+and provide aerodynamic support to the upper
+high & medium downforce circuits.
+wing and diffuser.
+STAKE F1 TEAM KICK SAUBER
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Together with the previously introduced mono pylon,
+the updated rear wing is linked to the new
+Performance - Redesigned pylon, main plane and flap with
+1 Rear Wing generation of rear wings and is characterised by a
+Flow Conditioning detached outboard tips.
+new version of flap, improving the aerodynamic
+efficiency of the car.
+The updated front brake ducts are being introduced
+Performance -
+2 Front Corner Redesigned exit ducts of the front brake duct. to further improve the aerodynamic flow and answer
+Flow Conditioning
+the cooling needs of the car in this weekend's race.
+
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Introduction of a small winglet on the RIS, which
+Rear Impact
+1 Local Load Upwashing Flick on RIS trailing edge increases the local upwash resulting in a marginal
+Structure
+load increase.

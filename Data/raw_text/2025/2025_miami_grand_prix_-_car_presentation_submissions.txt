@@ -1,0 +1,96 @@
+2025 MIAMI GRAND PRIX
+02 - 04 May 2025
+From The FIA Formula One Media Delegate Document 8
+To All Teams, All Officials Date 02 May 2025
+Time 09:55
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2025 Miami Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Miami Grand Prix
+McLaren Formula 1 Team
+No updates submitted for this event.
+Car Presentation – Miami Grand Prix
+*SCUDERIA FERRARI HP*
+No updates submitted for this event.
+Car Presentation – USA Miami Grand Prix
+Red Bull Racing
+Performance - Re-optimisation of the fences to extract a small
+1 Floor Fences Re-positioned floor fences
+Local Load increase in load for the same flow stability.
+Performance - To further optimise, more camber has been applied
+2 Floor Edge New surfaces with increased camber locally
+Local Load to the edge wing for more local load.
+
+Car Presentation – 2025 Miami Grand Prix
+*Mercedes-AMG PETRONAS F1 Team*
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+A circuit specific flap update. Reduced camber aimed
+Performance – local at reducing local downforce and drag along an
+1 Rear wing Camber change to flap.
+load/circuit specific efficiency slope appropriate for Miami.
+
+Car Presentation – Miami Grand Prix
+Aston Martin Aramco F1 Team
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+This flap is lower loaded to reduce the amount of
+Circuit specific -
+1 Front Wing Front wing flap with less aggressive profiles. front downforce in proportion to the lower level
+Balance Range
+rear wings typically run at this track.
+This beam wing has lower loading than the previous
+Circuit specific - Rear wing with reduced front view area and less version and works in conjunction with the upper
+2 Rear Wing
+Drag Range aggressive profiles. wing for this event to achieve the required drag
+range.
+This is a less aggressive upper wing cascade with
+Circuit specific -
+3 Beam Wing Single element beam wing. lower load and drag than previous versions for use
+Drag Range
+at this circuit efficiency.
+
+Car Presentation – Miami Grand Prix
+BWT Alpine F1 Team
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+The front brake duct inlet has been re-designed for
+Performance -
+1 Front Corner Revised Front Brake Duct a local flow optimisation. The new geometry also
+Flow Conditioning
+offers a gain in brake cooling efficiency.
+Members of the front suspension geometry have
+Front Performance -
+2 Re-profiled Front Suspension Geometry been re-profiled to optimise the flow quality
+Suspension Flow Conditioning
+around the updated front brake drum.
+
+Car Presentation – Miami Grand Prix
+*MoneyGram Haas F1 Team*
+No updates submitted for this event.
+Car Presentation – Miami Grand Prix
+Visa Cash App Racing Bulls
+No updates submitted for this event.
+Car Presentation – JAPANESE Grand Prix
+*ATLASSIAN WILLIAMS RACING*
+Updated Primary reason Geometric differences compared to previous Brief description on how the update works (min 20,
+component for update version max 100 words)
+The shorter chord beam wing works with the main rear wing
+The new main beam wing element, which is an optional
+Circuit Specific – assembly to efficiently reduce both downforce and drag. The
+1 Beam Wing fit, has a shorter chord than the previous beam wing that
+Drag Range use of this beam wing is a setup option that might be
+ran with this main rear wing assembly.
+suitable for the layout of the Miami circuit.
+
+Car Presentation – Miami Grand Prix
+Stake F1 Team KICK Sauber
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+This update regarding the lower wishbone covers is
+Front Performance -
+1 Updated front suspension cover design aiming to improve local flow structures travelling all
+Suspension Flow Conditioning
+along the car.

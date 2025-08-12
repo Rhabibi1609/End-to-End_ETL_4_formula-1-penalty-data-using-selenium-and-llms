@@ -1,0 +1,108 @@
+2023 AZERBAIJAN GRAND PRIX
+28 - 30 April 2023
+From The FIA Formula One Race Director Document 1
+To All Teams, All Officials Date 26 April 2023
+Time 13:05
+Title Event Notes - Pirelli Preview
+Description Pirelli Preview
+Enclosed AZE DOC 1 - Pirelli Preview.pdf
+Niels Wittich
+The FIA Formula One Race Director
+In agreement with the FIA and in accordance with Article 24.4 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version 1 Issue A
+Grand Prix of Azerbaijan 28/04-30/04/2023 (23R04BAK)
+Compounds selection
+Prescriptions
+Pressures & camber
+Cold Pressure Cooling Curve
+Pfront = (T - 70) ∙ 0.124 + Pstartf
+Prear = (T - 70) ∙ 0.118+ Pstartr
+Pstartf: Minimum starting pressure on
+the front axle [psi]
+Pstartr: Minimum starting pressure on
+the rear axle [psi]
+T: Tyre temperature [°C]
+Maximum heating times and temperatures (tread & sidewall)
+Tyres notes
+• Not permitted to switch tyres from their originally allocated position. • Heating time temperature limits apply to the actual tyre surface
+temperature measured with the IR gun as detailed in the TD003
+• Do not subject tyres to large deformation or heavy impact.
+• Cold cooling curve temperature limits apply to the tyre side wall
+• Do not leave fitted tyres exposed at an air temperature lower than 10°C temperature measured with the probe as detailed in TD003
+and/or any excessive UV emission.
+• BLANKET HEATING TIME for each temperature range to be counted from
+• Revised prescriptions could be issued during the race weekend in the moment the blanket control unit is set to reach its targeted temperature
+accordance with TD003. within its correspondent interval.
+General notes
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures and times in blankets
+• Tyre swapping
+C
+In
+o m pCCC
+t e r mW
+o345ee u
+dt
+n
+ia
+d
+t e
+F L
+3 K 1
+4 L 1
+5 N 1
+9 G 1
+9 5 B
+F R
+3 K 2
+4 L 2
+5 N 2
+9 G 2
+9 6 B
+R L
+3 K 3
+4 L 3
+5 N 3
+9 G 3
+9 7 B
+R R
+3 K 4
+4 L 4
+5 N 4
+9 G 4
+9 8 B
+M a n d a t o
+Q
+r y r a c
+C 3
+C 4
+3 t y r e
+C 5
+e t y r e s
+Minimum starting pressure Expected stabilized
+Camber limit
+Slicks Intermediate Wet running pressure
+Front 25.0 psi 25.5 psi 24.5 psi ≥26.5 psi -3.25°
+Rear 23.0 psi 23.5 psi 22.5 psi ≥24.5 psi -1.75°
+26
+Front pressure
+24 Rear pressure
+22
+20
+]isp[
+erusserP1
+1
+1
+4
+6
+8
+12
+10
+8
+0 10 20 30 40 50 60 70
+Temperature [°C]

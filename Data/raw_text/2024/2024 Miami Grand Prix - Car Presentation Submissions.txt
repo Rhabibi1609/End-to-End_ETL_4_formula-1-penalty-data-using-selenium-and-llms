@@ -1,0 +1,204 @@
+2024 MIAMI GRAND PRIX
+03 - 05 May 2024
+From The FIA Formula One Media Delegate Document 10
+To All Teams, All Officials Date 03 May 2024
+Time 09:55
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Miami Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Miami Grand Prix
+ORACLE RED BULL RACING
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+Not pursued for aerodynamic reasons, but in order
+A support for the FEW has been removed in order to
+1 Floor Edge Reliability to save weight given adequate stiffness, one for the
+save weight.
+edge wing supports has been removed.
+
+MERCEDES-AMG PETRONAS F1 TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+Floor roof changes increase local floor load and also
+Performance - Changes to floor roof volume and floor edge detail improve flow to the rear of the car and diffuser.
+1 Floor Body
+Local Load (more vanes added to the floor edge wing). Floor edge changes drop the pressure locally, in
+turn increasing fwd floor load.
+More louvres to increase exit area and allow more
+Cooling Circuit specific -
+2 More cooling louvres added to engine cover panel. mass flow through the sidepods, increasing the
+Louvres Cooling Range
+cooling range for Miami.
+Reducing the flap chord reduces front wing load,
+Circuit specific -
+3 Front Wing Reduce chord front wing flap. allowing us to run and balance and a smaller (low
+Balance Range
+drag) rear wing.
+Realignment of the track rod faring to the local
+Front Performance -
+4 Small tweak to track rod angle of attack. flow, reducing the local pressure peak and improve
+Suspension Flow Conditioning
+flow to the rear of the car.
+
+SCUDERIA FERRARI
+No updates submitted for this event.
+MCLAREN FORMULA 1 TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+The completely revised Front Wing Geometry
+results in a significant improvement of flow control
+Performance -
+1 Front Wing New, completely revised Front Wing. which in conjunction with the updated Front Corner
+Flow Conditioning
+and Front Suspension, results in an overall load
+gain.
+The new front suspension has been designed to suit
+Front Performance -
+2 New Front Suspension Geometry the new front wing and to support and enhance the
+Suspension Flow Conditioning
+improvement in flow condition.
+The new front brake duct has been designed to suit
+Performance -
+3 Front Corner Revised Front Brake Duct and Winglet the new front wing and to support and enhance the
+Flow Conditioning
+improvement in flow condition.
+The revised floor has been designed in conjunction
+Performance -
+4 Floor Body Completely revised Floor with the new Sidepod Inlet and Bodywork to
+Local Load
+increase overall load in all conditions.
+The revised Sidepod Inlet has been designed to
+Performance - complement the change in onset flow and in
+5 Sidepod Inlet Revised Sidepod Inlet
+Flow Conditioning conjunction with the bodywork results in an
+improved flow to the rear of the car.
+The new Bodywork and Engine Cover results in an
+Coke/Engine Performance -
+6 New Bodywork and Engine Cover improvement in efficiency and flow conditioning in
+Cover Flow Conditioning
+conjunction with the Sidepod Inlet.
+With the revised Bodywork Shape, the cooling
+Cooling Performance -
+7 Updated Louvre Range louvre range has been updated, to suit the change
+Louvres Flow Conditioning
+in overall flow field.
+The Rear Suspension has been updated to suit the
+Rear Performance - change in onset flow condition and to improve load
+8 Updated Rear Suspension
+Suspension Flow Conditioning generation through the new Rear Brake Duct
+Geometry.
+The new Rear Brake Duct geometry benefits from
+Performance -
+9 Rear Corner Revised Rear Brake Duct and Winglets an improvement in onset flow and results in an
+Local Load
+overall gain in load.
+A new, offloaded Beamwing has been designed,
+Circuit specific - which trades loading between Beamwing and Rear
+10 Beam Wing Offloaded Beamwing
+Drag Range Wing efficiently, suitable to the track
+characteristics.
+
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+This flap is lower loaded to reduce the amount of
+Circuit specific -
+1 Front Wing Front wing flap with less aggressive profiles. front downforce in proportion to the lower level
+Balance Range
+rear wings typically run at this track.
+The larger exit area increases the massflow inside
+Coke/Engine Circuit specific - Engine cover with larger exit area at the rear of the the bodywork and hence through the coolers to
+2
+Cover Cooling Range bodywork. allow operation in higher ambient conditions. Setup
+option so will depend on conditions.
+This rear wing is part of the rear wing assy that
+Circuit specific - Rear wing with reduced front view area and less
+3 Rear Wing positions the car in the drag range required for
+Drag Range aggressive profiles.
+optimum performance at this circuit.
+This beam wing is part of the rear wing assy that
+Circuit specific -
+4 Beam Wing Single element beam wing. positions the car in the drag range required for
+Drag Range
+optimum performance at this circuit.
+Adding a driver cooling inlet to the top of the legbox, Captures external air and feed this through the
+5 Chassis Scoop Driver Cooling this is larger than the one evaluated in winter chassis into the internal legbox to provide a cooling
+testing. airflow over the driver.
+
+BWT ALPINE F1 TEAM
+No updates submitted for this event.
+WILLIAMS RACING
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+There is a new option to trim the trailing edge of the These geometry options both reduce the local load
+rearward element of the front wing cascade. This produced by the front wing and are optional items
+Performance -
+1 Front Wing simply makes the chord shorter. There is a further to tune the aerobalance of the car. They can be
+Local Load
+option to modify the upper surface of the same used independently or together, depending on the
+trailing edge region by fitting a small packer. load reduction required to balance the car.
+
+VISA CASH APP RB FORMULA ONE TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+The changes made across the forward floor and
+fences modify the load distribution of the forward
+Performance - The height and shape of the forward floor has been
+1 Floor Body floor, generating additional local load whilst
+Local Load updated, with the fences modified to suit.
+minimising negative effect on downstream flow
+quality.
+Local flow quality around the diffuser inlet is
+Performance -
+2 Diffuser The diffuser has been reshaped in the inlet area. improved, giving a local load increase and better
+Local Load
+flow quality in to the diffuser.
+
+STAKE F1 TEAM KICK SAUBER
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+Working with the low-profile rear wing flap, this
+Circuit specific - combination adapts the car to the low-drag
+1 Front Wing Reduced-profile top two flaps for the front wing
+Balance Range requirements of this specific circuit, maximising the
+package's performance.
+Working with the low-profile front wing flaps, this
+Circuit specific - combination adapts the car to the low-drag
+2 Rear Wing Low-profile flap trim
+Balance Range requirements of this specific circuit, maximising the
+package's performance.
+
+MONEYGRAM HAAS F1 TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+This new geometry increases floor extraction and
+Performance - More aggressive diffuser expansion with a small
+1 Floor Body allows as well a better control of the local flow
+Local Load Gurney-flap on the trailing edge.
+features, resulting overall in more downforce.

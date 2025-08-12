@@ -1,0 +1,110 @@
+2022 SAUDI ARABIAN GRAND PRIX
+24 - 27 March 2022
+From The FIA Formula One Race Director Document 5
+To All Teams, All Officials Date 24 March 2022
+Time 12:00
+Title Pirelli Preview
+Description Pirelli Preview
+Enclosed KSA DOC 5 - Pirelli Preview.pdf
+Niels Wittich
+The FIA Formula One Race Director
+2022 S A G P
+AUDI RABIAN RAND RIX
+24 – 27 March 2022
+From The FIA Formula One Race Director Document 5
+To All Teams, All Officials Date 24 March 2022
+Time 12:00
+Pirelli Preview
+Please find enclosed the Pirelli Preview for this event.
+Niels Wittich
+FIA Formula One Race Director
+In agreement with the FIA and in accordance with Article 24.4 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version: 1 issue: B
+Grand Prix of Saudi Arabia 25/03-27/03/2022 (22R02JED)
+Compounds selection
+Compound FL FR RL RR Mandatory race tyres
+C2 2X1 2X2 2X3 2X4 C2
+C3 3G1 3G2 3G3 3G4 C3
+C4 4Z1 4Z2 4Z3 4Z4
+Intermediate 9G1 9G2 9G3 9G4 Q3 tyre
+Wet 95B 96B 97B 98B C4
+Prescriptions
+Pressures & camber
+Minimum starting pressure Expected stabilized
+Camber limit
+Slicks Intermediate Wet running pressure
+Front 24.5 psi 24.5 psi 23.5 psi ≥26.5 psi -3.25°
+Rear 22.0 psi 22.0 psi 21.0 psi ≥24.0 psi -2.00°
+Cold Pressure Cooling Curve
+26
+Front pressure
+24 Rear pressure Pfront = (T - 70) ∙ 0.123 + Pstartf
+22
+20 Prear = (T - 70) ∙ 0.115+ Pstartr
+]isp[
+erusserP1
+1
+1
+4
+6
+8
+Pstartf: M
+th
+i
+e
+n
+f
+im
+ro
+u
+n
+m
+t a
+s
+x
+t
+l
+a
+e
+r
+[
+t
+p
+in
+s
+g
+i]
+pressure on
+12 Pstartr: Minimum starting pressure on
+10 the rear axle [psi]
+T: Tyre temperature [°C]
+8
+0 10 20 30 40 50 60 70
+Temperature [°C]
+Maximum heating times and temperatures (tread & sidewall)
+Temperature 0 40 60 70 (°C)
+Slicks max. 3h
+Intermediate max. 2h
+Wet max. 2h
+• Temperatures refer to tyre tread and side wall temperatures, not blanket or controller set-point temperatures.
+• Tyres may only be heated prior to the session in which they are intended to be used.
+• The temperatures apply at all times during the event.
+Tyres notes
+• Not permitted to switch tyres from their originally allocated position. • Heating time temperature limits apply to the actual tyre surface
+temperature measured with the IR gun as detailed in the TD003
+• Do not subject tyres to large deformation or heavy impact.
+• Cold cooling curve temperature limits apply to the tyre side wall
+• Do not leave fitted tyres exposed at an air temperature lower than 15°C temperature measured with the probe as detailed in TD003
+and/or any UV emission.
+• BLANKET HEATING TIME for each temperature range to be counted from
+• Revised prescriptions could be issued during the race weekend in the moment the blanket control unit is set to reach its targeted temperature
+accordance with TD003. within its correspondent interval.
+General notes
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures in blankets
+• Tyre swapping

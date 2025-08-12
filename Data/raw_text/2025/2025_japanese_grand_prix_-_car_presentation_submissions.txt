@@ -1,0 +1,94 @@
+2025 JAPANESE GRAND PRIX
+04 - 06 April 2025
+From The FIA Formula One Media Delegate Document 9
+To All Teams, All Officials Date 04 April 2025
+Time 08:50
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2025 Japanese Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Japanese Grand Prix
+McLaren Formula 1 Team
+No updates submitted for this event.
+Car Presentation – Japanese Grand Prix
+SCUDERIA FERRARI HP
+No updates submitted for this event.
+Car Presentation – Japanese Grand Prix
+Red Bull Racing
+Coke/Engine Subtle changes to reduce the losses incurred by the
+1 Reliability Revision to central exit aspect ratio
+Cover upper and lower rear wings for more cooling.
+In preparation for upcoming races, a larger exit duct
+2 Rear corner Reliability Enlarged exit duct with blanking options has been prepared with scope to blank primarily for
+Suzuka
+Gap between races allowed a revised wishbone
+Rear Performance - Mild revision to lower wishbone shroud and fairing shroud better aligned to the local flow conditions to
+3
+Suspension Local Load into the rear wheel bodywork. be applied with attendant fairing into the brake
+duct assembly.
+
+Car Presentation – Japanese Grand Prix
+Mercedes-AMG PETRONAS F1 Team
+No updates submitted for this event.
+Car Presentation – Japanese Grand Prix
+Aston Martin Aramco F1 Team
+No updates submitted for this event.
+Car Presentation – Japanese Grand Prix
+BWT Alpine F1 Team
+No updates submitted for this event.
+Car Presentation – Japanese Grand Prix
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason for Geometric differences compared to previous Brief description on how the update works (min
+component update version 20, max 100 words)
+1 Floor Body Performance - Central floor re-shaped This geometry changes the floor volume in floor
+Local Load proximity, aiming to improve stability when the car
+is running at low ride-heights in high speed corners.
+
+Car Presentation – Japanese Grand Prix
+Visa Cash App Racing Bulls
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+The airflow passing over the Halo passes towards
+Performance - the back of the car and can influence the rear wing
+1 Halo Reprofiled Halo shroud and interface to chassis.
+Flow Conditioning and floor performance. This update improves the
+flow quality downstream of the Halo.
+
+Car Presentation – Japanese Grand Prix
+ATLASSIAN WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous Brief description on how the update works (min 20,
+component for update version max 100 words)
+The rearward most element of the front wing has an The updated flap geometry produces more local load, which
+updated outboard geometry. The flap has a slightly allows us to efficiently rebalance more load from the rear
+Performance –
+1 Front Wing Flap longer chord length and features a more pronounced wing. The interaction of the subsequent flow with the front
+Local Load
+‘dip’ in its profile. The details of the connection to the suspension and brake duct furniture is different, which leads
+endplate are also updated slightly. to improved control of the front wheel wake.
+Working in conjunction with the new flap, the revisions to
+Front Wing Performance – The new endplate has a reprofiled lower rear edge and a the endplate modify the flow leaving the front wing
+2
+Endplate Flow Conditioning slightly modified connection to the front wing flap. assembly and improve its interaction with the downstream
+aero devices.
+
+Car Presentation – Japanese Grand Prix
+Stake F1 Team KICK Sauber
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+Performance - Changes to several areas of the floor: floor fence, All changes together are aiming to have better flow
+1 Floor Body
+outboard floor and diffuser. field entering the underfloor and improving flow
+Local Load
+quality all along the floor.
+Performance - Changes to the main plane geometry to increase
+Changes to main plane.
+2 Rear Wing
+overall efficiency and improved cleanliness of the
+Local Load
+rear wing assembly.
+Performance - Adding an upper element to the already existing The addition of the forward element leads to an
+3 Beam Wing
+beam wing main plane. efficient load increase as well as a positive response
+Local Load
+on characteristics.

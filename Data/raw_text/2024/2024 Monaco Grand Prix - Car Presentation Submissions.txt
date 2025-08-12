@@ -1,0 +1,250 @@
+2024 MONACO GRAND PRIX
+24 - 26 May 2024
+From The FIA Formula One Media Delegate Document 8
+To All Teams, All Officials Date 24 May 2024
+Time 10:51
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Monaco Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Monaco Grand Prix
+ORACLE RED BULL RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+steeper and deeper rear wing of greater chord and
+Circuit specific - camber fulfilling the permitted volume to extract
+1 Rear Wing Enlarged upper rear wing by chord and camber
+Balance Range most load for a given air speed, a high downforce
+rear wing
+same for the lower rear wing, increased camber to
+Circuit specific -
+2 Beam Wing Enlarged beam wing by chord and camber extract maximum load at a given air speed, a high
+Balance Range
+downforce beam or lower rear wing.
+The low air speed of Monaco combined with the
+Circuit specific -
+3 Front Corner Enlarged inlet and exit ducting for the brake cooling high brake energy necessitates enlarged inlet and
+Cooling Range
+exit ducting, both lying inbaord of the wheel.
+The lock requirement for Monaco necessitates a
+4 Front Corner Reliability Frtont top wishbone fairing notch for steering
+small notch in the upper front wishbone fairing.
+
+MERCEDES-AMG PETRONAS FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Increasing the camber of the wing elements
+Circuit specific -
+1 Rear Wing Increase camber upper rear wing increases local downforce and drag; wing is track
+Drag Range
+specific and suited to Monaco.
+Increasing the camber of the beam wing elements
+Circuit specific -
+2 Rear Wing Increase camber beam wing increases local downforce and drag; wing is track
+Drag Range
+specific and suited to Monaco.
+Increasing the local inboard floor volume increases
+Performance -
+3 Floor Body Increased floor inboard leading edge volume the local flow acceleration in this area which in turn
+Local Load
+generates more load.
+Increasing inboard flap chord has increased the
+Performance - Larger chord inboard flap and redistribution of main balance range of the front wing; redistribution of
+4 Front Wing
+Flow Conditioning plane chord the outboard element chord has altered tip
+vorticity and improved tyre wake control.
+
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Introduction of more loaded Top and Lower Rear
+Wing main and flap profiles. This update is track
+Circuit specific - Higher Downforce Top Rear Wing and Lower Rear
+1 Rear Wing specific, with the aim to cover the low aerodynamic
+Drag Range Wing designs
+efficiency requirements of the Monaco street
+circuit.
+MCLAREN FORMULA 1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+A new, more loaded Rear Wing Assembly has been
+Circuit specific -
+1 Rear Wing More loaded Rear Wing Assembly designed with the aim of efficiently increasing
+Drag Range
+Downforce at high downforce circuits.
+In conjuction with the more loaded Rear Wing
+Circuit specific - Assembly, a new Beamwing has been designed,
+2 Beam Wing More loaded Beam Wing Assembly.
+Drag Range which supports to increase the overall efficiency of
+the assembly.
+
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The more aggressive wing increases local suction
+Performance - There is a new rear wing with more aggressive
+1 Rear Wing for increased loads, and is acceptable due to the
+Local Load geometry.
+lower efficiency of this circuit geometry.
+The more aggressive wing increases local suction
+Performance - There is a new beam wing with more aggressive
+2 Beam Wing for increased loads, and is acceptable due to the
+Local Load geometry.
+lower efficiency of this circuit geometry.
+
+BWT ALPINE F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+This flap is higher loaded to increase the amount of
+Circuit specific - Front wing flap option with more aggressive
+1 Front Wing front downforce in proportion to the higher level
+Balance Range cambered profiles.
+rear wings typically run at this track.
+This modification gives greater road wheel angle for
+New trackrod fairing and supports to suit Monaco. the same steering wheel angle compared to the
+Front Performance -
+2 Outboard mounting position which is further standard outboard trackrod position. The higher
+Suspension Mechanical Setup
+rearward. maximum road wheel angle is required due to the
+specific circuit characteristics.
+The top rear wing features more load with the sole
+Circuit specific - More loaded top rear wing main plane suited for aim of tackling the high downforce nature of the
+3 Rear Wing
+Drag Range track characteristics and high downforce nature. Circuit de Monaco and offering optimal downforce
+level for best lap-time.
+The double element beam wing features more load
+In conjunction with the aforementioned top rear
+Circuit specific - with the sole aim of tackling the high downforce
+4 Beam Wing wing update, the beam wing has more load with
+Drag Range nature of the Circuit de Monaco and offering
+double element style.
+optimal downforce level for best lap-time.
+To provide a more outwashing flow out of the
+Performance - Realignment of the halo vanes on either side of the
+5 Halo cockpit which aims to improve the flow to the rear
+Flow Conditioning cockpit, behind the Halo.
+wing and rear beam wing assembly.
+
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The wing is simply larger than others we have run
+A new high downforce rear wing is available at this
+Circuit specific - so far this year. As a result it delivers more
+1 Rear Wing event. The upper elements have a larger area,
+Drag Range downforce and drag, which is appropriate for a
+particularly at the outboard region of the mainplane.
+circuit like Monaco.
+A new high downforce beam wing accompanies the
+new upper elements. The difference are subtle but The beam wing generates some local load courtesy
+Circuit specific - are designed to compliment the increased loading of of the updated geoemtry. It also supports the larger
+2 Beam Wing
+Drag Range the upper elements. It has a longer chord and a upper elements and contributes to the overal
+higher angle of attack than the medium downforce downforce delivery of the rear wing system.
+version that has run previously.
+Larger front brake duct scoop exits are available to
+The larger duct exit draws more air flow through
+increase front brake and caliper cooing if required.
+Circuit specific - the duct to increase the cooling of the front brake
+3 Front Corner Alternative internal ducting options are also
+Cooling Range and caliper assembly. The internal duct distributes
+available to trade disc and caliper cooling as
+the cooling flow to the disc and caliper.
+required.
+
+VISA CASH APP RB FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The updates improve the flow attachment on the
+Front Performance - The profiles of the suspension members have been suspension legs, which sit in a region of high
+1
+Suspension Flow Conditioning modified and adjusted in incidence. upwash from the front wing and can be prone to
+separation.
+The duct modifications allow additional airflow
+Circuit specific -
+2 Front Corner The front brake cooling duct has been enlarged. through the brake cooling system, increasing the
+Cooling Range
+rate at which heat is removed from the brakes.
+A max-downforce 'full box' rear wing configuration -
+Circuit specific - The camber & indidence of the upper wing profiles is the increase in camber & incidence of the section
+3 Rear Wing
+Drag Range increased. generates additional downforce at the expense of a
+higher overall drag level.
+As with the Upper Rear Wing, this makes use of the
+available height in the legality box to create a
+Circuit specific - A 2-element beam wing with high incidence &
+4 Beam Wing highly-loaded beam wing suitable for high-
+Drag Range camber.
+downforce circuits, whilst aerodynamically
+supporting the upper wing.
+
+STAKE F1 TEAM KICK SAUBER
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+This new concept of rear wing, with a single pylon
+compared to the previous, double-pylon setup, will
+Performance -
+1 Rear Wing Single pylon rear wing improve aero efficiency in Monaco, but also form the
+Flow Conditioning
+basis of future developments of the rear wing for
+other races.
+The new design of the endplate, with detached tips,
+Rear Wing Circuit specific -
+2 Detached tips of the RW end plate allows us to maximise efficiency in the very perculiar
+Endplate Drag Range
+circumstances of Monaco.
+The new beam wing, introduced alongside our new
+Circuit specific - RW concept, is designed to provide maximum load
+3 Beam Wing New beat wing design
+Drag Range and answer the Monaco circuit's specific
+aerodynamics requirements.
+This update, which changes the surface of the front
+Front Circuit specific -
+4 Redesigned front suspension covers suspension covers, is a track-specific update aimed at
+Suspension Drag Range
+maximising aero performance in Monaco.
+The new front brake ducts answer Monaco's specific
+Circuit specific - cooling needs, while also improving the overall aero
+5 Front Corner Redesigned front brake duct
+Cooling Range flow from the front corners towards the rear of the
+car.
+
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Front Trackrod shroud modification to allow the steering Necessary tweak to the Trackrod shroud to fulfil the
+1 Reliability
+Suspension lock required. lock angles requirements of this circuit.
+The change consists in a removal of the brake duct
+Circuit specific -
+2 Front Corner Brake duct exit modification exit scoop conditioner, allowing a higher brake
+Cooling Range
+cooling level, required in this circuit.
+New design of a cooling louver layout. This option
+Cooling Circuit specific -
+3 Wider cooling louvers apertures changes only the louvers keeping the engine cover
+Louvres Cooling Range
+unchanged, allowing higher cooling levels.
+Due to the low efficiency requirements in
+Montecarlo, increasing downforce is almost always
+Circuit specific -
+4 Rear Wing More cambered Upper Rear Wing a lap time gain. This Wing pushes the geometry to
+Drag Range
+the limit of possible achievable load inside the
+allowed rule box.
+More pushed lower beam for the same reason as
+Circuit specific -
+5 Beam Wing More cambered Lower Rear Wing for the Upper Rear Wing, main aim is to increase
+Drag Range
+downforce to improve lap time.

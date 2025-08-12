@@ -1,0 +1,124 @@
+2022 FRENCH GRAND PRIX
+21 - 24 July 2022
+From The FIA Formula One Race Director Document 5
+To All Teams, All Officials Date 21 July 2022
+Time 13:05
+Title Event Notes - Pirelli Preview V2
+Description Pirelli Preview - Issue C
+Enclosed 22R12PRC Preview - Issue C.pdf
+Eduardo Freitas
+The FIA Formula One Race Director
+In agreement with the FIA and in accordance with Article 24.4 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version: 1 issue: C
+Grand Prix of France 22/07-24/07/2022 (22R12PRC)
+Compounds selection
+Prescriptions
+Pressures & camber
+Cold Pressure Cooling Curve
+Pfront = (T - 70) ∙ 0.119 + Pstartf
+Prear = (T - 70) ∙ 0.112+ Pstartr
+Pstartf: Minimum starting pressure on
+the front axle [psi]
+Pstartr: Minimum starting pressure on
+the rear axle [psi]
+T: Tyre temperature [°C]
+Maximum heating times and temperatures (tread & sidewall)
+Tyres notes
+• Not permitted to switch tyres from their originally allocated position. • Heating time temperature limits apply to the actual tyre surface
+temperature measured with the IR gun as detailed in the TD003
+• Do not subject tyres to large deformation or heavy impact.
+• Cold cooling curve temperature limits apply to the tyre side wall
+• Do not leave fitted tyres exposed at an air temperature lower than 15°C temperature measured with the probe as detailed in TD003
+and/or any UV emission.
+• BLANKET HEATING TIME for each temperature range to be counted from
+• Revised prescriptions could be issued during the race weekend in the moment the blanket control unit is set to reach its targeted temperature
+accordance with TD003. within its correspondent interval.
+General notes
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures in blankets
+• Tyre swapping
+C
+In
+o
+t e
+m pCCC
+r mW
+o234ee u
+dt
+n
+ia
+d
+t e
+F L
+2 X 1
+3 G 1
+4 Z 1
+9 G 1
+9 5 B
+F R
+2 X 2
+3 G 2
+4 Z 2
+9 G 2
+9 6 B
+R L
+2 X 3
+3 G 3
+4 Z 3
+9 G 3
+9 7 B
+R R
+2 X 4
+3 G 4
+4 Z 4
+9 G 4
+9 8 B
+Mandatory race tyres
+C2
+C3
+Q3 tyre
+C4
+26
+Front pressure
+24 Rear pressure
+22
+20
+]isp[
+erusserP1
+1
+1
+6
+4
+8
+12
+10
+8
+0 10 20 30 40 50 60 70
+Temperature [°C]
+F ro
+R e
+•••
+M in im u m s ta rtin g p re s s u re E x p e c te d s ta b iliz e d
+S lic k s In te rm e d ia te W e t ru n n in g p re s s u re
+n t 2 4 .0 p s i 2 4 .0 p s i 2 3 .0 p s i ≥ 2 6 .0 p s i
+a r 2 1 .5 p s i 2 1 .5 p s i 2 0 .5 p s i ≥ 2 3 .5 p s i
+4 0 6 0 T e m p e ra tu re 0
+S lic k s m a x . 3 h
+In te rm e d ia te m a x . 2 h
+W e t m a x . 2 h
+T e m p e ra tu re s re fe r to ty re tre a d a n d sid e w a ll te m p e ra tu re s, n o t b la n k e t o r co n tro lle r se
+T y re s m a y o n ly b e h e a te d p rio r to th e se ssio n in w h ich th e y a re in te n d e d to b e u se d .
+T h e te m p e ra tu re s a p p ly a t a ll tim e s d u rin g th e e v e n t.
+t-p
+C a m b e r lim
+-3 .2 5 °
+-2 .0 0 °
+7 0 (°C )
+o in t te m p e ra tu re
+it
+s.

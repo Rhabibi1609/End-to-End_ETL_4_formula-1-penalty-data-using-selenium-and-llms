@@ -1,0 +1,207 @@
+2024 HUNGARIAN GRAND PRIX
+19 - 21 July 2024
+From The FIA Formula One Media Delegate Document 10
+To All Teams, All Officials Date 19 July 2024
+Time 10:59
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Hungarian Grand Prix - Car Presentation Submissions .pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Hungarian Grand Prix
+ORACLE RED BULL RACING
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+better cooling efficiency is attained for a high
+Coke/Engine Circuit specific - re-sculpted sidepods and engine cover revising the ambient temperature and relatively slow circuit
+1
+Cover Cooling Range central exit and louvre exits with the revised geometry by reducing the load
+losses in such conditions from the exits.
+A knock on effect of the topbody changes required
+Circuit specific - Revised fairings towards the rearward mounts to suit
+2 Halo a revision to the Halo fairings to eliminate
+Cooling Range the topbody downstream
+mismatches in the local surfaces
+Changes to the profile of the wrap-around
+Performance - upstream of the inatakes have given improvements
+3 Rear Corner Revised wrap-around profile of the wheel bodywork
+Local Load in brake and caliper cooling intake pressures for
+better efficiencies.
+Knowledge from the previous wings has allowed us
+Performance - New profiles based upon previous designs affecting to extract more load form revised profiles without
+4 Front Wing
+Local Load all four elements affecting flow stability and protect downstream
+consequences.
+A further optimisation of the front lower wishbone
+Performance - Revised front lower wishbone forward leg shroud
+5 Front Corner forward leg shroud to provide higher pressure
+Flow Conditioning profile
+downstream.
+
+MERCEDES-AMG PETRONAS FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+Trimming the lower deflector endplate reduces
+Performance -
+1 Rear Corner Lower defector endplate trim. local flow losses and therefore improves rear
+Local Load
+downforce through a range of ride heights.
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+As a further evolution of the upgrade brought in
+Performance - Spain, this minor geometrical modification aims at
+1 Floor Body Reworked floor underbody
+Flow Conditioning enhancing flow structure and aero loads stability
+across the full operating envelope
+MCLAREN FORMULA 1 TEAM
+No updates submitted for this event.
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+The more aggressive design increases the load on
+Circuit specific - A new Flap for the wing introduced at Silverstone
+1 Front Wing the wing to balance the car with the higher loaded
+Balance Range with more aggression.
+rear wing which will be used at this event.
+The vanes around the cockpit are designed to
+Performance - The vanes attached to the Halo are revised with one
+2 Halo control the position of some of the lower energy
+Local Load that now joins the bodywork top deck.
+flow from this surrounding area.
+The revised shapes improve the flowfield under the
+Performance - The main body of the floor has evolved slightly in
+3 Floor Body floor increasing the local load generated on the
+Local Load most places with the fences and floor edge.
+lower surface and hence performance.
+The fences are redistributed across the LE of the The revised shapes improve the flowfield under the
+Performance -
+4 Floor Fences floor with revised curvature and leading edge floor increasing the local load generated on the
+Local Load
+profiles.. lower surface and hence performance.
+The revised shapes improve the flowfield under the
+Performance - Small changes to the details of the floor edge wing
+5 Floor Edge floor increasing the local load generated on the
+Local Load and the main floor inboard of this.
+lower surface and hence performance.
+The changes to the shape modify the expansion in
+Performance - The diffuser is a slightly modified shape with boat
+6 Diffuser the diffuser to improve flow characteristics and the
+Local Load surface.
+load generated on the surfaces.
+The changes to the OB of the beam wing effects the
+Performance - Revised beam wing with more raised second
+7 Beam Wing balance of performance between the floor and rear
+Local Load element outboard.
+wing for improved performance.
+
+BWT ALPINE F1 TEAM
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+As part of our normal development cycle, this new
+rear corner aims at giving more authority on the
+Circuit specific -
+1 Rear Corner New inlet and exit ducts with new furniture. management of our rear brakes temperature
+Cooling Range
+through a wider inlet duct as well as a larger exit
+duct.
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+This new larger exit simply results in a larger air
+mass flow rate through the cooling system. This
+A new central exit duct for the cooling system is
+Coke/Engine Circuit specific - increases the cooling to the PU and GBox fluids but
+1 available. It is physically larger than those run
+Cover Cooling Range comes at the cost of downforce and drag
+previously.
+performance. It will be fitted if the ambient
+conditions demand it.
+VISA CASH APP RB FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+The duct modifications improve the flow
+management through the brake system, ensuring
+Circuit specific -
+1 Front Corner Updated internal ducting. that the incoming mass flow is distributed in the
+Cooling Range
+correct proportions to the individual items than
+need cooling.
+Performance - The geometry of the winglets on the rear corner has Additional downforce is generated, suitable for
+2 Rear Corner
+Local Load been updated. high-downforce circuits such as Hungary.
+
+STAKE F1 TEAM KICK SAUBER
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+Combined with the reworked engine cover, the new
+Performance -
+1 Sidepod Inlet Revised sidepod inlet geometry sidepod inlet delivers better flow quality down the
+Flow Conditioning
+side of the car.
+Bodywork and sidepod were changed together to
+Coke/Engine Performance -
+2 Engine cover top surface re-designed improve the quality of the flow reaching the floor
+Cover Flow Conditioning
+edge and the rear of the car.
+The new front floor shape combined with the
+Performance - Reworked floor height and shape, combined with re- reworked fences deliver additionnal local load
+3 Floor Body
+Flow Conditioning optimized floor fences. whilst maintaining a good flow quality for the rear
+floor.
+The new floor edge delivers a local load increase
+Performance -
+4 Floor Edge Closed floor edge slot whilst maintaining the vorticity level in the diffuser
+Local Load
+under control.
+The new corner and rear suspension covers
+Performance - New brake scoop duct, deflectors geometries and delivered a step of performance when combined
+5 Rear Corner
+Local Load associated suspension fairings with the new bodywork and floor, both in local load
+and in the surrounding area.
+The fairings were part of the new corner described
+above. They were realigned to the changes onset
+Rear Performance - New rear suspension fairings associated to the new
+6 condtitions from the updated bodywork and deliver
+Suspension Flow Conditioning rear corner.
+a clean flow for the rear floor and rear corner
+devices.
+Halo design revised to improve the flow quality
+Performance -
+7 Halo Revised halo design combined with a new deflector along the bodywork with an improved control of
+Flow Conditioning
+the cockpit losses.
+Together with the sidepod inlet and the engine
+Performance - cover update we adapted the mirror stays to
+8 Mirror Updated mirror geometries
+Flow Conditioning achieve better flow control and flow quality
+towards the rear end.
+Together with the sidepod inlet update which is
+Performance - slightly raised we adapted the headrest shoulder
+9 Headrest Raised headrest shoulders
+Flow Conditioning towards the sidepod / engine cover for a smooth
+transition.
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason Geometric differences compared to
+Brief description on how the update works
+component for update previous version
+This option represents a cooling option: wider
+Coke/Engine Circuit specific -
+1 Larger Engine Cover Cooling Exit central exit allows more heat rejection. Option
+Cover Cooling Range
+designed to minimize the Aero penalty.
+Further cooling options with the possibility to fit
+louvres on the Sidepod top (most efficient ones as
+Cooling Circuit specific -
+2 Set of Sidepod top and engine cover louvers on top of the radiators) and a range of louvres on
+Louvres Cooling Range
+the new Engine cover to fine tune the potential
+cooling requirements.

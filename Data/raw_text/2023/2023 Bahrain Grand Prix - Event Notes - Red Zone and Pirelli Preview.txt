@@ -1,0 +1,68 @@
+2023 BAHRAIN GRAND PRIX
+03 - 05 March 2023
+From The FIA Formula One Race Director Document 3
+To All Teams, All Officials Date 02 March 2023
+Time 14:20
+Title Event Notes - Red Zone and Pirelli Preview
+Description Red Zone and Pirelli Preview A
+Enclosed BHR DOC 3 - Event Notes - Red Zone and Pirelli Preview.pdf
+Niels Wittich
+The FIA Formula One Race Director
+
+In agreement with the FIA and in accordance with Article 24.4 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version 1 Issue A
+Grand Prix of Bahrain 03/03-05/03/2023 (23R01BAH)
+Compounds selection
+Compound FL FR RL RR Mandatory race tyres
+C1 1K1 1K2 1K3 1K4 C1
+C2 2L1 2L2 2L3 2L4 C2
+C3 3N1 3N2 3N3 3N4
+Intermediate 9G1 9G2 9G3 9G4 Q3 tyre
+Wet 95B 96B 97B 98B C3
+Prescriptions
+Pressures & camber
+Cold Pressure Cooling Curve
+26
+24 Pfront = (T - 70) · 0.112 + Pstartf
+22
+20 Prear = (T - 70) · 0.105+ Pstartr
+18
+16
+Pstartf: Minimum starting pressure on
+14 the front axle [psi]
+12 Pstartr: Minimum starting pressure on
+the rear axle [psi]
+10
+T: Tyre temperature [°C]
+8
+0 10 20 30 40 50 60 70
+Maximum heating times and temperatures (tread & sidewall)
+Tyres notes
+• Not permitted to switch tyres from their originally allocated position. • Heating time temperature limits apply to the actual tyre surface
+temperature measured with the IR gun as detailed in the TD003
+• Do not subject tyres to large deformation or heavy impact.
+• Cold cooling curve temperature limits apply to the tyre side wall
+• Do not leave fitted tyres exposed at an air temperature lower than 10°C temperature measured with the probe as detailed in TD003
+and/or any excessive UV emission.
+• BLANKET HEATING TIME for each temperature range to be counted from
+• Revised prescriptions could be issued during the race weekend in the moment the blanket control unit is set to reach its targeted temperature
+accordance with TD003. within its correspondent interval.
+General notes
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures and times in blankets
+• Tyre swapping
+]isp[
+erusserP
+Minimum starting pressure Expected stabilized
+Camber limit
+Slicks Intermediate Wet running pressure
+Front 21.0 psi 21.0 psi 20.0 psi ≥23.0 psi -3.50°
+Rear 18.5 psi 18.5 psi 17.5 psi ≥20.5 psi -2.00°
+Front pressure
+Rear pressure
+Temperature [°C]

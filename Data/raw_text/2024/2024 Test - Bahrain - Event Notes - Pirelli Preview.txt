@@ -1,0 +1,159 @@
+2024 TEST - BAHRAIN
+21 - 23 February 2024
+From The FIA Formula One Race Director Document 1
+To All Teams, All Officials Date 20 February 2024
+Time 15:15
+Title Event Notes - Pirelli Preview
+Description Pirelli Preview
+Enclosed 24T01BAH Preview - Issue A.pdf
+Niels Wittich
+The FIA Formula One Race Director
+In agreement with the FIA and in accordance with Article 30.5 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version 1 Issue A
+Bahrain Pre-Season Test 21/02-23/02/2024 (24T01BAH)
+Pressures & camber
+Cold Pressure Cooling Curve
+Pfront = (T - 70) ∙ 0.115 + Pstartf
+Prear = (T - 70) ∙ 0.107+ Pstartr
+Pstartf: Minimum starting pressure on
+the front axle [psi]
+Pstartr: Minimum starting pressure on
+the rear axle [psi]
+T: Tyre temperature [°C]
+Maximum heating times and temperatures (tread & sidewall)
+• Not permitted to switch tyres from their originally allocated position.
+• Do not subject tyres to large deformation or heavy impact.
+• Do not leave fitted tyres exposed at an air temperature lower than 10°C and/or any excessive UV emission.
+• Revised prescriptions could be issued during the event in accordance with TD003.
+• Heating time temperature limits apply to the actual tyre surface temperature measured with the IR gun as detailed in the TD003
+• BLANKET HEATING TIME for each temperature range to be counted from the moment the blanket control unit is set to reach its targeted temperature
+within its correspondent interval
+• Cold cooling curve temperature limits apply to the tyre side wall temperature measured with the probe as detailed in TD003
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures and times in blankets
+• Tyre swapping
+C
+In
+o
+t e
+m pCCCCC
+r mW
+o12345ee u
+dt
+n
+ia
+d
+t e
+F L
+1 F 1
+2 F 1
+3 P 1
+4 S 1
+5 S 1
+M W 1
+X W 1
+F R
+1 F
+2 F
+3 P
+4 S
+5 S
+M W
+X W
+22222
+22
+R L
+1 F 3
+2 F 3
+3 P 3
+4 S 3
+5 S 3
+M W 3
+X W 3
+R R
+1 F 4
+2 F 4
+3 P 4
+4 S 4
+5 S 4
+M W 4
+X W 4
+30
+28 Front pressure
+26 Rear pressure
+24
+]isp22
+[
+e ru 20
+sse18
+rP
+16
+14
+12
+10
+0 5 10 15 20 25 30 35 40 45 50 55 60 65 70
+Temperature [°C]
+F r o
+R e
+na tr 21
+S29
+M
+lic k
+.0 p
+.0 p
+in
+ss
+i
+s i
+im u mIn s t a r t in g
+t e r m e d ia
+2 3 .5 p s i
+2 0 .5 p s i
+pt
+e
+r e s s u
+21
+r eW0
+.5
+7 .5
+e t
+p
+p
+ss ii
+E x p
+r u
+en c t e
+n in
+≥ 2
+≥ 2
+dg41 s
+p.0.0
+t a b iliz e
+r e s s u r e
+p s i
+p s i
+d
+C a m b
+-3-2
+e r lim
+.5 0 °
+.0 0 °
+it
+Circuit Layout
+Compounds selection
+Prescriptions
+Temperature 0 60 70 (°C)
+Slicks max. 2h
+Intermediate max. 2h
+Wet No blankets allowed
+• Temperatures refer to tyre tread and side wall temperatures, not blanket or controller set-point
+temperatures.
+• Tyres may only be heated prior to the session in which they are intended to be used.
+• The temperatures apply at all times during the event.
+Tyre Notes
+General Notes

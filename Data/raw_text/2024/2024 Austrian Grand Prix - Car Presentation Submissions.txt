@@ -1,0 +1,76 @@
+2024 AUSTRIAN GRAND PRIX
+28 - 30 June 2024
+From The FIA Formula One Media Delegate Document 6
+To All Teams, All Officials Date 28 June 2024
+Time 09:56
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Austrian Grand Prix - Car Presentation Submissions.pdf
+Cameron Kelleher
+The FIA Formula One Media Delegate
+Car Presentation – Austrian Grand Prix
+ORACLE RED BULL RACING
+No updates submitted for this event.
+MERCEDES-AMG PETRONAS FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Reducing the beam wing element camber reduces
+Performance -
+1 Beam Wing Decambered beam wing elements. load both locally and on the floor, resulting in less
+Drag reduction
+downforce and drag.
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+In anticipation of possible high ambient
+temperatures over the race week-end in Austria, an
+Cooling Circuit specific -
+1 Addition of extra cooling louvres panel extra louvre option has be defined on the engine
+Louvres Cooling Range
+cover, increasing mass flow rate capacity but at an
+expense of aerodynamic efficiency
+MCLAREN FORMULA 1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The new Front Wing geometry improves flow
+Performance - conditioning in conjunction with the updated Front
+1 Front Wing New Front Wing geometry
+Flow Conditioning Suspension geometry throughout various
+conditions resulting in improved aerodynamic load.
+The new Front Suspension is designed around the
+Front Performance -
+2 Updated Front Suspension new Front Wing geometry aimed at maximising the
+Suspension Flow Conditioning
+improved flow characteristics introduced with it.
+
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+No updates submitted for this event.
+BWT ALPINE F1 TEAM
+No updates submitted for this event.
+WILLIAMS RACING
+No updates submitted for this event.
+VISA CASH APP RB FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The winglets on the rear brake drum face generate
+Performance - The configuration of the winglets on the rear drum load and help manage the flow at the back of the
+1 Rear Corner
+Flow Conditioning has been revised. car. This update improves the performance of the
+flow conditioning elements.
+STAKE F1 TEAM KICK SAUBER
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The new lower rear wing has been introduced for the
+upcoming sprint weekend in Austria. The single
+Performance - The new lower rear wing is our first single element element wing offers a small reduction in drag and
+1 Beam Wing
+Drag reduction lower rear wing of the season. will improve the aerodynamic efficiency of the car
+overall, in keeping with the requirements of the
+Austrian circuit and ones similar.
+MONEYGRAM HAAS F1 TEAM
+No updates submitted for this event.

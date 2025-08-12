@@ -1,0 +1,496 @@
+2024 BAHRAIN GRAND PRIX
+29 February - 02 March 2024
+From The FIA Formula One Media Delegate Document 4
+To All Teams, All Officials Date 29 February 2024
+Time 10:00
+Title Car Display Procedure
+Description Car Display Procedure
+Enclosed 2024 Bahrain Grand Prix - Car Presentation Display Procedure.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+2024 B G P
+AHRAIN RAND RIX
+29 February – 02 March 2024
+From The FIA Formula One Media Delegate
+To All Officials, All Teams Date 29 February 2024
+CAR PRESENTATION AND DISPLAY PROCEDURES
+In addition to the requirements set out in Article 19 of the FIA Formula One Sporting Regulations, please
+note the following procedures for the Car Presentation and Display at this Competition:
+The Car Presentation submissions are listed below.
+Between 13:00 and 14:00 on Thursday, one car from each team must be positioned in the same way as
+previous events, with the other car positioned and available for viewing inside your garage. If only one
+car will carry the major aerodynamic and bodywork components and assemblies that have not been run
+at a previous Competition or TCC and are intended to be run at the Competition, this car must be the
+one displayed to media.
+The car outside may be used for pit stop practice but when no pit stop practice is taking place the car
+must return to the same position. Teams selected for the presentation may not carry out pit stop practice
+during their allocated presentation timeslot.
+At any Competition where it is raining during this presentation, we would ask you to leave the cars in
+position and use easy ups.
+There must be enough space around the entire car on display to allow people to move safely and
+unhindered – for the avoidance of doubt, this means that any team equipment / infrastructure must not
+be positioned within 2m of the cars.
+Photographers must stay in the fast lane of the pit lane in order to avoid overcrowding around
+the cars.
+The presentations will take place at the below timings:
+• 13:05 – Car 1
+• 13:25 – Car 10
+• 13:45 – Car 63
+Each team that is selected must have the technical representative indicated previously to the FIA
+available at these times.
+Roman De Lauw
+The FIA Formula One Media Delegate
+1
+Car Presentation – Bahrain Grand Prix
+ORACLE RED BULL RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Load has beeen increased as pressure gradient
+Performance - Re-optimised wing elements to better attain the
+1 Front Wing targets were met, so this wing has more load than
+Local Load pressure gradients and more stable load.
+last years whilst maintaing the stability.
+Revised to fit the local changes in the front wing
+profiles and then tapered to meet the front
+Performance - Better fairing to the front wing elements and a
+2 Nose bulkhead whislt observing the taper requirements
+Flow Conditioning better pressure control along the length.
+to better condition the flow for bodywork
+downstreeam
+For greater efficiency, the inlet shape has been
+revised to better utilise the avaialble pressure to
+Circuit specific - A better inlet shape for the pressure field available
+3 Sidepod Inlet feed the radiators or primary heat exchangers
+Cooling Range to supply the primary heat exchangers
+downstream enabling the external profile to be less
+detrimental to the floor edge detail.
+Taking inspiration from competitor cars, shapes
+Performance - More aggressive geometry in the FEW to attain
+4 Floor Edge creating more local load were derived whilst
+Local Load locally greater pressure differences
+mainaining adequate stability.
+Placed to exploit naturally lower pressues exit areas
+Attaining adequate ranges of exit areas to operate in
+Cooling Circuit specific - with a range of mass flows for different circuit types
+5 the coolest and warmest ambinent conditions
+Louvres Cooling Range and ambient condiitons to maintain system
+expected.
+temperatures within the operational limits.
+Better flow to the rear wing enables more efficient
+Coke/Engine Performance - profiled to improve pressure upstream of the rear
+6 load to be generated for a given profile of rear
+Cover Flow Conditioning wing.
+wing.
+Again taking inspiration from competitor designs,
+Front Wing Performance -
+7 Less loss from the endplate roll-over for more load the endplate roll over has been better optimised for
+Endplate Local Load
+reduced local loss and thus more load.
+
+MERCEDES-AMG PETRONAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Detached forward element improves flow to the
+Performance - Detached forward element from nose and reduced rear of the car, improving floor performance. The
+1 Front Wing
+Flow Conditioning forth element chord inboard. small chord flap locally offloads the front wing,
+improving flow to the rear of the car.
+Improves flow quality to the radiator, and also
+Performance -
+2 Sidepod Inlet Triangular inlet. improves flow to the rear of the floor and hence
+Flow Conditioning
+increases floor load.
+Changes generate increased local load which in turn
+Performance - increases mass flow under the floor; flow quality to
+3 Floor Body Change in the fence camber and floor tunnel profile.
+Local Load the diffuser improved which improves rear floor
+load.
+Improves flow quality under the upper rear wing,
+Coke/Engine Performance -
+4 Softened engine cover shoulder. which in turn improves upper wing load - also
+Cover Flow Conditioning
+better management of cooling flow trajectory.
+Improved profiling of both beam wing elements has
+Performance - improved their pressure distribution and how they
+5 Beam Wing Improved section profiling.
+Local Load work together and with the diffuser - resulting in
+better wing efficiency.
+Cut-out and reprofiling cleans up the tip flow
+Performance -
+6 Rear Wing Increased flap tip cut-out and reprofiling. structures, which in turn improves tip and wing
+Local Load
+efficiency without losing wing load.
+
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+This evolution is improving the flow in the undercut
+The sidepod inlet has been reworked and raised,
+Performance - and interactions with the floor edge and the back of
+1 Sidepod Inlet working in conjunction with the redesigned sidepod
+Flow Conditioning the car, whilst retaining the necessary cooling
+and coke undercut
+capacity.
+The engine cover has been inflated, with a different The cooling exit has been more biased towards the
+Coke/Engine Performance - cooling exit topology and a more prominent central central section of the bodywork, still maintaining
+2
+Cover Flow Conditioning exit. High and wide sidepod shoulder is a visible the needed modulation by using louvres, in order to
+difference compared to the 2023 car increase the car overall efficiency
+In conjunction with the re-optimized flow features
+Rear suspension and rear corner have been adapted
+coming from the front end (coke / sidepod), the
+Performance - to suit the bodywork development, offering better
+3 Rear Corner regression of the the suspension arms helps to
+Flow Conditioning inboard and outboard integration, as well as a re-
+deliver additional energy to the RBD furnitures that
+optimized rear corner winglet system
+have been consequently re-optimzed as a system.
+
+MCLAREN F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Completely reshaped Sidepod Inlet and Chassis
+Performance - integration with the aim to improve Flow structure
+1 Sidepod Inlet Modified Sidepod Inlet
+Flow Conditioning management in all conditions as well as cooling
+performance.
+In conjunction with the Sidepod Inlet, the Bodywork
+Coke/Engine Performance -
+2 New Bodywork Shape has been redesigned to complement the changes as
+Cover Flow Conditioning
+well improve interaction with the floor.
+The floor edge has been redesigned to improve
+Performance - both floor loading as well as flow conditioning,
+3 Floor Edge Floor Edge Modification
+Flow Conditioning resulting from an improved interaction with the
+modified Bodywork.
+Both Rear Wing and Beam wing have been
+Performance -
+Rear Wing New Rear Wing Assembly completely redesigned, resulting a gain of efficiency
+4 Local Load
+at a drag level suitable for this circuit.
+
+ASTON MARTIN ARAMCO COGNIZANT F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The revised mounting position improves the loading
+Performance - Front wing mounted to the nose on the second
+1 Front Wing distribution of the front wing and interaction with
+Local Load element.
+surrounding parts for better performance.
+The revised mounting position improves the loading
+Performance - Shorter nose compared to AMR23, to suit FW
+2 Nose distribution of the front wing and interaction with
+Local Load mounting change described above.
+surrounding parts for better performance.
+Part of general re-optimisation of the floor
+Performance - The leading edge of the floor is higher and other geometry to improve the loading and how this is
+3 Floor Body
+Local Load subtle change in the shape of the main floor. generated aiming to improve performance through
+the operating envelope.
+Increased forward floor load local to the change in
+4 Performance -
+Floor Edge The floor edge wing has a shorter chord. geometry which also improves the loading on the
+Local Load
+downstream geometry.
+Continuation of the 2023 concept to manage the
+Performance -
+5 Sidepod Inlet The sidepod inlet is raised. flow to the rear of the car whilst maintaining
+Flow Conditioning
+sufficient flow into the inlet to cool the car.
+The undercut works in conjunction with the raised
+Coke/Engine Performance - Undercut depth has increased, and the exit of the inlet to improve flow to the rear of the car. The exit
+6
+Cover Flow Conditioning bodywork has a revised profile. of the bodywork is shaped to manage the position
+of the internal cooling flow downstream.
+The geometry of the structures defines the
+Rear Performance - Suspension member fairings to shroud the revised
+7 fundamental layout of the surfaces which are then
+Suspension Mechanical Setup structural layout.
+optimised to the surrounding flowfield.
+The rear suspension layout change required
+Performance - Rear brake duct modified to suit the revised rear different geometry for local loading on the corner
+8 Rear Corner
+Local Load suspension layout from our supplier. geometry and it's effect on the wake of the rear
+tyre.
+Change made to improve the performance of the
+Performance - Inboard both elements now mount to the crash
+9 Beam Wing inboard region of the wing, removing the centre
+Local Load structure.
+portion of the second element.
+
+BWT ALPINE F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Performance - The front wing has revised span-wise loading to
+1 Front Wing It is a completely revised front wing for 2024.
+Flow Conditioning improve air flow further down the car.
+The new floor edge geometry affects flow
+Performance -
+2 Floor Edge The floor edges contain revised edge details. underneath the car to the diffuser for more
+Flow Conditioning
+performance.
+This is a new part since the pre-season test. A front
+Performance - Additional front wing load to allow higher aero
+3 Front Wing wing gurney has been produced and made available
+Local Load balance if required.
+on the trailing edge of the front wing flap.
+
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The front wing geometry works in conjunction with
+The whole front wing geometry is new for 2024.
+Performance - the new nosebox, front suspension and floor
+1 Front Wing Chord lengths, aerofoil profiles and connection to
+Local Load geometries to generate local load and to setup the
+nosebox are all updated.
+flow for the rest of the car.
+The nose geometry works in conjunction with the
+Performance - The nosebox has a new profile and the detail around new front wing, front suspension and floor
+2 Nose
+Local Load the connection to the front wing is new for FW46. geometries to generate local load and to setup the
+flow for the rest of the car.
+The layout of the front suspension is updated. Most The front suspension outboard elements play an
+Front Performance - notably, the trackrod position is changed and the important role in working alongside the front wing,
+3
+Suspension Flow Conditioning front top wishbone is now split into two separate nose, chassis side panel and HALO/mirror setup to
+legs. help condition the flow to the sidepods and floor.
+Whilst being critically important to the
+The layout of the front suspension is updated. Most aerodynamic behaviour of the car, the front
+Front Performance - notably, the trackrod position is changed and the suspension must also deliver a suitable car balance
+4
+Suspension Mechanical Setup front top wishbone is now split into two separate and steering feedback to the driver. Some of the
+legs. mechanical details of the installation are updated
+accordingly for 2024.
+The floor body generates local load, conditions the
+The entire floor geometry is updated for 2024. The
+flow ahead of the diffuser and rear wing. It also
+details are primarily on the underside of the floor
+Performance - supports the car as it touches the ground on the
+5 Floor Body but the upper surface and floor edge (See below) are
+Local Load straights and must survive the impacts to ensure
+also updated to make the most of the high energy
+that the car remains legal and robust throughout a
+flow.
+race weekend.
+These devices condition the flow entetering the
+Performance - The floor fences have been updated in position and
+6 Floor Fences forward floor helping to produce local floor load
+Flow Conditioning curvature for FW46.
+and set up the flow ahead of the diffuser.
+The floor edge has been substantilly updated for
+2024. More elaborate and aggressive geometry is The floor edge produces local load and contributes
+Performance -
+7 Floor Edge present for 2024. This captures the learning from to the overall flow field ahead of the rear brake
+Local Load
+FW45 and makes the most of the improved flow duct furniture.
+quality around the front of the car and the floor.
+The sidepod inlet ensures good flow to the cooling
+Performance - The sidepod inlet is new for 2024 and features an
+8 Sidepod Inlet system and helps condition the flow down the side
+Flow Conditioning extended lip.
+of the car.
+Performance - The diffuser geometry is modified for 2024 to The diffuser creates as much local load as possible
+9 Diffuser
+Local Load maximise the load from the onset flow. by modifying the air volume.
+The coke and engine cover geometry is new for 2024
+and features and aggressive slide from the front of
+The louvres adjust the total mass flow rate through
+Coke/Engine Circuit specific - the cooling inlet to the rear corner. A variety of
+10 the cooling system and allow the system to be
+Cover Cooling Range louvres panels and centreline exits provide
+tuned to circuit and environmental characteristics.
+opportunity to adjust the flow through the cooling
+system.
+The beam wing is part of the overall rear wing
+assembly. For 2024 there are two elements to the Provides options to quickly and efficiently trade
+Circuit specific -
+11 Beam Wing beam wing, which helps adjust the drag and downforce and drag to suit the track and prevailing
+Drag Range
+downforce for each circuit. The forward element in conditions.
+particular will be adjusted as required.
+The rear wing assembly is new for FW46 and
+Generates significant but efficient downforce and
+Performance - features the familiar disconnect between the flap
+12 Rear Wing drag. Offers a range of upper gurney flaps as well as
+Local Load element and the endplate. The whole geometry is
+lower wing elements to tune downforce and drag.
+new with updated profiles, chord and span.
+The rear suspension legs are an important aero flow
+The FW46 features rear suspension geometry used control surface and help increase the performance
+Rear Performance - by MGP in 2023. The outboard geometry is very of the brake duct furniture, diffuser and rear wing.
+13
+Suspension Mechanical Setup similar to the FW45 but offers a small update to the They also determins the tyre presentation, which is
+leg positions and interface with the upright. critical for overall performance and tyre
+management.
+The winglets help manage the flow around the rear
+Performance - The rear corner geoemtry is updated for 2024 with
+14 Rear Corner tyre and the brake ducts offers efficient cooling for
+Local Load revised winglets and updated brake cooling flow.
+the brake disc and caliper.
+
+VISA CASH APP RB F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+1
+The AT05 nose / front wing junctions have been
+Performance - The revised nose / front wing junctions generate
+Nose modified. The geometry of the nose has also been
+Local Load more local load reduce losses
+extensively modified
+2
+The inboard sections of the FW have been modified
+in sympathy with the revised nose geometry. The The inboard front wing changes work in harmony
+Performance -
+Front Wing first element of the mainplane has been extensively with the nose geometry above to deliver higher
+Local Load
+revised with elements two, three and four remaining local loading.
+closely similar to AT04.
+3 The front suspension has been extensively The pull-rod element, locating high on the upright
+redesigned and a pull-rod element now controls outboard, requires a different front brake duct
+Front Performance -
+front wheel movement compared to a push-rod on scoop. The inboard front suspension has been
+Suspension Flow Conditioning
+AT04. The trackrod remains in a low position ahead revised to work with the new nose geometry
+of the front lower wishbone, similar to AT04. described above.
+4 The front brake duct assembly has been redesigned
+The scoop provides similar cooling flow to front
+to accommodate the new pull-rod suspension. The
+Performance - brake discs and calipers but with a cleaner
+Front Corner scoop geometry itself is closely similar to AT04 but
+Flow Conditioning interaction with the outboard suspension elements,
+with greater separation now to the front top
+providing a better downstream flowfield.
+wishbone and pull-rod elements.
+5
+Performance - The floor has been redesigned with updates to the All of the underfloor changes achieve greater and
+Floor Body
+Local Load fences as well as floor roof surfaces. cleaner loading downstream.
+6 The floor edge wing philosophy of AT04 carries over
+The floor edge features a similar floor edge wing to
+Performance - but with further development to extract more local
+Floor Edge AT04 but modified to suit latest developments on
+Local Load load from this device, also aided by the upstream
+the main floor itself.
+flow improvements described above.
+7
+Performance - The diffuser has modifications based on upstream The diffuser changes generate increased local load
+Diffuser
+Local Load flow changes for improved rear axle grip.
+8
+The revised inlet geometry provides better quality
+Performance - The sidepod inlet has been raised and the upper
+Sidepod Inlet flow to the sidepod radiators for an efficiency
+Flow Conditioning leading edge regressed.
+improvement of the cooling system.
+9 The coke line has been pulled inboard compared to
+Coke/Engine Performance - AT04. The upper sidepod has also increased in height The bodywork provides a better flowfield to the
+Cover Flow Conditioning with the upper engine cover surfaces dropping rear of the car.
+towards the rear floor.
+10 The size and position of these continue to work well
+on AT05 to allow greater flow through the radiator
+Cooling Performance - cores as required based on circuit demands and
+Bodywork cooling louvres are very similar to AT04.
+Louvres Flow Conditioning ambient conditions whilst minimising any adverse
+impact on rear downforce from the low energy
+cooling air that exits these devices.
+11
+Performance - Rear wing profiles have been redesigned to improve
+Rear Wing Improved efficient load generation
+Local Load Cp profiles
+
+STAKE F1 TEAM KICK SAUBER
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The change to pull-rod was mostly dictated by
+Front Performance - Switched the front suspension geometry from push- aerodynamic, not mechanical reasons. It allows to
+1
+Suspension Flow Conditioning rod to pull-rod maximise the efficiency of the aero package
+throughout the whole car.
+Influenced by the changes at the front of the car
+(see above), we took an aggressive approach to
+Coke/Engine Performance -
+2 Aggressive redesign of engine cover and sidepods redesigning the engine cover, the sidepod and the
+Cover Flow Conditioning
+coke area to maximise downforce and aero
+efficiency.
+As part of our redesign for 2024, we took a novel
+Performance - approach to the floor with some solutions, mostly
+3 Floor Body Complete redesign of the floor
+Flow Conditioning in the main body part, aimed at generating
+increased downforce.
+
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+1
+The revised Endplate design allows an improved
+Front Wing Performance - flow conditioning, obtained with a new side vane
+Revised Front Wing Endplate and Side Vane
+Endplate Flow Conditioning design and revised lower slot layout, allowing to
+better control the front wheel wake.
+2
+The new Front Wing allows to increase the overall
+Performance - Optimized profile design, compliant with new front
+Front Wing car load with improved flow conditioning impacting
+Flow Conditioning suspensions
+the front suspension and the rest of the car.
+3
+The inlet is optimized for cooling performance. The
+Performance - The Sidepod Inlet is much higher compared to last
+Sidepod Inlet wide-open area below favours flow delivery to the
+Flow Conditioning year, allowing a larger undercut
+back end of the car.
+4 The new design allows an increased flow feed of
+Performance - New Floor concept, with higher leading edge and floor and diffuser, permitting to generate more
+Floor Body
+Local Load new tunnel design downforce and changing the balance between
+upper and lower floor flows.
+5
+The fences are optimized for the new floor design,
+Performance - The new floor body required a complete re-design of
+Floor Fences now generating local load and conditioning the flow
+Local Load the floor fences
+impacting the floor edge and the diffuser.
+6 The new design optimizes the different impacting
+Performance - New floor and bodywork required a re-design of the flow and allows to gain performance by increased
+Floor Edge
+Local Load floor edge extraction and by the generated vortexes travelling
+downstream.
+7 The new engine cover features additional centre
+Coke/Engine Performance - cooling exits, allowing to reduce the louvers on the
+New design of the engine cover
+Cover Flow Conditioning sidepods, thus limiting the low energy flow
+impacting the rear wing elements.
+8
+The new kinematics required new suspension
+Front Performance -
+New Front Suspension design and updated covers member fairings, designed for efficiency and
+Suspension Flow Conditioning
+improved flow conditioning downstream.
+9 The new internal ducting improves brake cooling
+Performance - performance. The external shape is designed to be
+Front Corner Updated internal and external design
+Flow Conditioning compliant with the new suspensions, aiming to
+influence front wheel wake.
+10 The new floor and bodywork design imply different
+Rear Performance - flow impacting on the rear suspensions: the new
+Updated rear suspension with revised fairing design
+Suspension Flow Conditioning farings aim for efficiency and conditioning of the
+corner flow.
+11 The new internal design aims to improve brake
+Performance - cooling performance. Furthermore, the devices on
+Rear Corner Revised internal and external design
+Local Load the inboard face aim to improve local load and
+diffuser extraction.

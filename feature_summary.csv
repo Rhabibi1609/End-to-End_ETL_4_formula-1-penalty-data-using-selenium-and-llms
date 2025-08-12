@@ -1,0 +1,19 @@
+,Type,Unique Values,Missing Values,Missing %
+type_of_document,object,82,1,0.08525149190110827
+year,object,22,15,1.278772378516624
+grand_prix,object,38,3,0.2557544757033248
+description,object,1034,3,0.2557544757033248
+session_type,object,65,712,60.69906223358908
+track,object,97,519,44.24552429667519
+lap_number,object,15,1155,98.46547314578005
+turn_number,object,50,1072,91.38959931798807
+safety_car_or_vsc_involved,object,7,1151,98.12446717817562
+penalty_given,object,160,893,76.12958226768968
+type_of_incident,object,263,743,63.34185848252344
+was_contact_made,object,12,1056,90.02557544757033
+immediat_advantage_gained,object,5,1168,99.57374254049446
+drivers_invovled,object,477,370,31.54305200341006
+teams_invovled,object,280,442,37.68115942028986
+rule_violated,object,306,586,49.95737425404945
+decision_notes,object,885,117,9.974424552429667
+source_file,object,948,221,18.84057971014493

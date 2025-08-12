@@ -1,0 +1,232 @@
+2024 EMILIA ROMAGNA GRAND PRIX
+17 - 19 May 2024
+From The FIA Formula One Media Delegate Document 10
+To All Teams, All Officials Date 17 May 2024
+Time 10:59
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Emilia Romagna Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Emilia Romagna Grand Prix
+ORACLE RED BULL RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+More load has been extracted from the flap by
+extending the chord length. In changing the moving
+Performance - Endplate leading edge repositioned and profiles 3 flap geometry, the fixed flap elements into the
+1 Front Wing
+Local Load and 4, flap elements redesigned to extend the chord. nosebox had to be revised as the parts cannot be
+treated in a modular fashion. The endplate leading
+edge revison improves the stability in yaw.
+From CFD research the shedding edges under the
+Performance - Shedding edges of the forward portion of the edge
+2 Floor Edge wing were re-positoned to extract locally more load
+Local Load wing re-positioned.
+whilst maintianing the flow stability criteria.
+More efficient rear brake cooling has been achieved
+Circuit specific - rear wheel bodywork revised to improve the brake by re-profiling the exit duct geometry for a given
+3 Rear Corner
+Cooling Range cooling exit condition. intake. By consequence the local winglets adjacent
+to the exit were re-optimised.
+Again from CFD, the upper surface of the floor has
+Performance - the upper surface ahead of the edge wing has been
+4 Floor Body been revised to improve the onset flow to parts
+Flow Conditioning slightly lowered
+downstream improving the load generated.
+Consequentially to the flap elements revision, the
+Performance - fairings on the nosebox revised to meet the revised nosebox fairings were revised to meet and blend
+5 Nose
+Local Load flap elements and the camera stubs revised the nosebox junction. Camera stubs have been
+revised to be better suited to the local flow.
+
+MERCEDES-AMG PETRONAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Improves flow quality to the rear of the floor, which
+Performance -
+1 Floor Fences Small modification to fence alignment. in turn improves diffuser and rear load throughout
+Flow Conditioning
+the ride height range.
+The tunnel volume change alters the trajectory of
+Performance -
+2 Floor Body Modification to the floor tunnel volume. the fence and floor edge vortex systems, the result
+Local Load
+being increased local load.
+Increasing the length of the flap tip shedding edge
+Circuit specific -
+3 Rear Wing Modification to upper wing tip shedding detail. results in more local load and upper wing efficiency
+Drag Range
+suited to this circuit.
+Biplaning the beam wing improves its local
+Circuit specific -
+4 Beam Wing New biplane beam wing. efficiency and also how it interacts with the upper
+Drag Range
+wing and the diffuser.
+Improved design of the internal duct feeding the
+Circuit specific -
+5 Front Corner Improved internal brake ducting. front brake disc resulting in reduced pressure drop
+Cooling Range
+and increased mass flow.
+
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Minor front wing update with revised flap and tip
+Performance - Updated flap profile, adjuster position and tip loadings, aiming at improving performance and
+1 Front Wing
+Flow Conditioning details efficiency across the polar range. This goes in
+conjunction with the rest of the car upgrades
+Not specific to the Imola circuit requirements, the
+Performance - Swept flap tip and enlarged mainplane to endplate
+2 Rear Wing rear wing tip / mainplane roll junction have been re-
+Drag reduction roll junction
+designed in order to improve the overall efficiency
+The new bodywork features a new sidepod and inlet
+that improves flow quality over the floor edge. A
+Performance - New P-shape inlet, forward top lip and updated
+3 Sidepod Inlet new cockpit device has also been implemented on
+Flow Conditioning cockpit device
+the side of the halo to manage better losses
+travelling downstream
+The engine cover volume has been reduced,
+Coke/Engine Performance - improving flow quality towards the back of the car.
+4 Reduced volume and reworked cooling exit
+Cover Flow Conditioning Cooling exit topology evolves but main modulation
+remains via gills arrangement.
+In conjunction with the bodywork evolution, a
+Performance - revised floor edge is introduced, turning the sidepod
+5 Floor Edge Revised rearward slot and trailing edge volume
+Flow Conditioning onset benefits into better flow energy delivery to
+the diffuser
+Working together with the rest of the upgrade and
+Performance - Updated channel profile and outboard diffuser the upstream changes, the diffuser expansion has
+6 Diffuser
+Local Load expansion been re-optimized and offers a load increase in
+return
+Taking the benefits of the bodywork changes, rear
+suspension top wishbone fairing have been further
+Rear Performance -
+7 Reprofiled rear top wishbone triangle fairing developed, with positive interaction on rear wing
+Suspension Local Load
+and rear corner performance, resulting in a small
+load increase
+MCLAREN FORMULA 1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+A new, more loaded Rear Wing Assembly has been
+Circuit specific -
+1 Rear Wing More loaded Rear Wing Assembly designed with the aim of efficiently increasing
+Drag Range
+Downforce suitable for low isochronal circuits.
+In conjuction with the more loaded Rear Wing
+Circuit specific - Assembly, a new Beamwing has been designed,
+2 Beam Wing More loaded Beam Wing Assembly.
+Drag Range which supports to increase the overall efficiency of
+the assembly.
+
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Central section of the wing has a revised front view
+The changes create a revised loading distribution on
+Performance - shape and incidence to the first element along with
+1 Front Wing the lower surface of the wing to improve
+Local Load some changes to the slot gap separator
+performance through the operating range.
+arrangement.
+The changes to the nose are cosmetic at the tip to
+Performance - The tip of the nose has some volume added to suit
+2 Nose suit the revised front wing surfaces and slot gap
+Local Load the FW changes.
+separator layout.
+The revised shapes improve the flowfield under the
+Performance - The main body of the floor has evolved slightly with
+3 Floor Body floor increasing the local load generated on the
+Local Load the fences and floor edge.
+lower surface and hence performance.
+The revised shapes improve the flowfield under the
+Performance - The fences are redistributed across the LE of the
+4 Floor Fences floor increasing the local load generated on the
+Local Load floor with revised curvature.
+lower surface and hence performance.
+The revised shapes improve the flowfield under the
+Performance - Small changes to the details of the floor edge wing
+5 Floor Edge floor increasing the local load generated on the
+Local Load and the main floor inboard of this.
+lower surface and hence performance.
+The changes to the shape modify the expansion in
+Performance - The diffuser is a slightly modified shape with revised
+6 Diffuser the diffuser to improve flow characteristics and the
+Local Load top surface.
+load generated on the surfaces.
+This is a cooling option and reduces the massflow
+Coke/Engine Performance - Revised central trim to the centre of the engine
+7 allowed to exit in this area, use will depend on the
+Cover Local Load cover, smaller than the previous trimmed version.
+cooling requirements of the event.
+The rear suspension and corner work together to
+Rear Performance - The external fairings are revised, but the structural
+8 improve the flow around the rear wheel to
+Suspension Local Load components are not changed.
+generate load and increase car performance
+The rear suspension and corner work together to
+Performance - Reduced inlet area and a revised inboard face with a
+9 Rear Corner improve the flow around the rear wheel to
+Local Load more distinct exit and revised vanes.
+generate load and increase car performance
+BWT ALPINE F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+This reduces floor deflection at high-speed, which
+Performance - Floor flank 'stay' will be tested on Friday that
+1 Floor Edge affects the flow around the rear tyres. This will be
+Flow Conditioning increases floor stiffness in front of the rear tyre.
+tested on one car on Friday
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The update only delivers a mass reduction, which is
+There are no geometric differences to the
+done without compromising the aerodynamic
+1 Floor Body Reliability aerodynamic surfaces but the laminate has been
+performance of the floor. Reduced weight improves
+changed to reduce the mass of the floor.
+the performance in all regards.
+VISA CASH APP RB FORMULA ONE TEAM
+No updates submitted for this event.
+STAKE F1 TEAM KICK SAUBER
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The extension of the floor fences, as well the
+Performance - Floor fences forward extension, changes to forward redefined surface in the front part, increases
+1 Floor Fences
+Flow Conditioning floor volume downforce and improves the aerodynamic efficiency
+of the package.
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Aim of this geometrical change is to influence the
+Front Wing Performance - flow impacting the front tyre, by reducing the wake
+1 Re-shaped FW Endplate
+Endplate Flow Conditioning of the tyre itself and re-directing high energy flow
+towards the rear end of the car.
+The top wishbone fairings were reshaped to be
+Rear Performance -
+2 Re-shaped top wishbone fairings more compliant with the incoming flow and with
+Suspension Flow Conditioning
+the updated brake drum devices.
+The FIA prescribed lower winglet cluster was re-
+Performance -
+3 Rear Corner Lower winglet layout positioned to better work in conjunction with the
+Local Load
+diffuser and also to extract more local load.

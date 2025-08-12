@@ -1,0 +1,116 @@
+2023 AUSTRIAN GRAND PRIX
+30 June - 02 July 2023
+From The FIA Formula One Race Director Document 1
+To All Teams, All Officials Date 28 June 2023
+Time 12:30
+Title Event Notes - Pirelli Preview
+Description Pirelli Preview
+Enclosed AUT DOC 1 - Pirelli Preview.pdf
+Niels Wittich
+The FIA Formula One Race Director
+In agreement with the FIA and in accordance with Article 30.5 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version 3 Issue A
+Grand Prix of Austria 30/06-02/07/2023 (23R10SPI)
+Compounds selection
+Prescriptions
+Pressures & camber
+Cold Pressure Cooling Curve
+Pfront = (T - 70) ∙ 0.115 + Pstartf
+Prear = (T - 70) ∙ 0.106+ Pstartr
+Pstartf: Minimum starting pressure on
+the front axle [psi]
+Pstartr: Minimum starting pressure on
+the rear axle [psi]
+T: Tyre temperature [°C]
+Maximum heating times and temperatures (tread & sidewall)
+Tyres notes
+• Not permitted to switch tyres from their originally allocated position. • Heating time temperature limits apply to the actual tyre surface
+temperature measured with the IR gun as detailed in the TD003
+• Do not subject tyres to large deformation or heavy impact.
+• Cold cooling curve temperature limits apply to the tyre side wall
+• Do not leave fitted tyres exposed at an air temperature lower than 10°C temperature measured with the probe as detailed in TD003
+and/or any excessive UV emission.
+• BLANKET HEATING TIME for each temperature range to be counted from
+• Revised prescriptions could be issued during the race weekend in the moment the blanket control unit is set to reach its targeted temperature
+accordance with TD003. within its correspondent interval.
+General notes
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures and times in blankets
+• Tyre swapping
+C
+In
+o m pCCC
+t e r mW
+o345ee u
+dt
+n
+ia
+d
+t e
+F L
+3 K 1
+4 L 1
+5 N 1
+9 G 1
+9 5 R
+F R
+3 K 2
+4 L 2
+5 N 2
+9 G 2
+9 6 R
+R L
+3 K 3
+4 L 3
+5 N 3
+9 G 3
+9 7 R
+R R
+3 K 4
+4 L 4
+5 N 4
+9 G 4
+9 8 R
+M a n d a t o
+Q
+r y r a c
+C 3
+C 4
+3 t y r e
+C 5
+e t y r e s
+Minimum starting pressure Expected stabilized
+Camber limit
+Slicks Intermediate Wet running pressure
+Front 23.0 psi 24.0 psi 20.5 psi ≥25.0 psi -3.25°
+Rear 20.0 psi 20.0 psi 17.0 psi ≥22.0 psi -1.75°
+26
+Front pressure
+24 Rear pressure
+22
+20
+]isp[
+erusserP1
+1
+1
+4
+6
+8
+12
+10
+8
+0 10 20 30 40 50 60 70
+Temperature [°C]
+Temperature 0 60 70 (°C)
+Slicks max. 2h
+Intermediate max. 2h
+Wet No blankets allowed
+• Temperatures refer to tyre tread and side wall temperatures, not blanket or controller set-point
+temperatures.
+• Tyres may only be heated prior to the session in which they are intended to be used.
+• The temperatures apply at all times during the event.

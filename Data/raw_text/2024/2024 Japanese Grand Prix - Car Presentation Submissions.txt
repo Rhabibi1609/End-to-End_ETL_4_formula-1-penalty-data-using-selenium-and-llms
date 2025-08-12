@@ -1,0 +1,181 @@
+2024 JAPANESE GRAND PRIX
+05 - 07 April 2024
+From The FIA Formula One Media Delegate Document 12
+To All Teams, All Officials Date 05 April 2024
+Time 08:47
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed Japanese GP - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Japanese Grand Prix
+ORACLE RED BULL RACING
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+seeking the most effcient locations in terms of
+Performance - Redistributed inlet areas for the sidepod mounted
+1 Sidepod Inlet pressure inlet for the area, we then need less exit
+Local Load primary heat exchangers
+area which is beneficial downstream.
+with better understanding of the pressure
+Performance - further optimsation of the floor surface incurring no distribution, subtle surface changes have exploited
+2 Floor Body
+Local Load mechanical changes above the floor the flow characteristics to extract more load locally
+whilst maintianing flow stability
+given knowledge of the flow and pressure feeding
+Performance - the floor edge wing, more camber has been applied
+3 Floor Edge Increased camber and plan view area.
+Local Load to generate more local load whilst maintaining an
+adequate level of stability.
+The low brake energy demands of Suzuka allow a
+Circuit specific - Smaller inlet and exit ducts for the front brakes with reduction of inlet and therefore exit ducts which is
+4 Front Corner
+Cooling Range re-optimised locally geometries to accommodate more efficient than blanking the ducts used at
+earlier events.
+
+MERCEDES-AMG PETRONAS F1 TEAM
+No updates submitted for this event.
+SCUDERIA FERRARI
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+Anticipating possible rain and low grip conditions, a
+more loaded top rear wing together with a more
+Circuit specific - Higher Downforce Top Rear Wing and Lower Beam
+1 Rear Wing loaded lower beam wing, fully carried over designs
+Drag Range Wing designs
+from 2023, will be part of the downforce selection
+pool for this event.
+Not specific to the Suzuka circuit layout, this minor
+rear suspension fairing upgrade features a longer
+Rear Performance - chord profile, with local flow conditioning
+2 Reprofiled rear top wishbone rearward leg fairing
+Suspension Flow Conditioning improvements and positive interaction with
+surrounding components, bringing a small
+efficiency increase.
+
+MCLAREN FORMULA 1 TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+As this circuit features reduced brake cooling
+Circuit specific - requirements, the front brake duct geometry has
+1 Front Corner Low Cooling Front Brake Duct
+Cooling Range been modified trading brake cooling massflow for
+aerodynamic performance.
+
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+The revised shapes improve the flowfield under the
+Performance - The main body of the floor has evolved slightly with
+1 Floor Body floor increasing the local load generated on the
+Local Load the fences and floor edge.
+lower surface and hence performance.
+The revised shapes improve the flowfield under the
+Performance - The fences are redistributed across the LE of the
+2 Floor Fences floor increasing the local load generated on the
+Local Load floor with revised curvature.
+lower surface and hence performance.
+The revised shapes improve the flowfield under the
+Performance - The chord of the floor edge wing is reduced
+3 Floor Edge floor increasing the local load generated on the
+Local Load compared to the previous version.
+lower surface and hence performance.
+The changes to the shape modify the expansion in
+Performance - The diffuser is a slightly modified shape with revised
+4 Diffuser the diffuser to improve flow characteristics and the
+Local Load top surface.
+load generated on the surfaces.
+
+BWT ALPINE F1 TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+More offloaded outboard front wing which gives an
+Performance - New shape of all front wing elements and new end
+1 Front Wing efficient drag saving compared to the previous
+Drag reduction plate arrangement.
+wing.
+Makes better use of the inlet flow in conjunction
+Performance - Revised ducting arrangement of the front brake
+2 Front Corner with the aformentioned new front wing compared
+Flow Conditioning drum.
+to the previous version.
+Offloads the beam wing and top rear wing to
+Performance -
+3 Beam Wing Traditional non-biplane rear beam wing. increase load in the floor compared to the previous
+Local Load
+version.
+
+WILLIAMS RACING
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+The updated geometry changes the control of the
+front tyre flow structures. This affects the flow field
+Front Wing Performance - The rearmost 2 elements are reprofiled and their
+1 further rearward on the car, improving both the
+Endplate Flow Conditioning junction with the endplate is heavily modified.
+overall downforce of the car and the characteristics
+of the downforce delivery.
+These revised wing elements provide an efficient
+drop in downforce and drag. They work with the
+Circuit specific -
+2 Rear Wing This rear wing has smaller upper elements. new beam wing to directly lower the load
+Drag Range
+generated by the rear wing assembly. This is an
+optional setup for this weekend.
+These revised beam wing provides an efficient drop
+in downforce and drag. It works with the new upper
+Circuit specific - The new beam wing has a small area than the
+3 Beam Wing wing elements to directly lower the load generated
+Drag Range previous version.
+by the rear wing assembly. This is an optional setup
+for this weekend.
+
+VISA CASH APP RB FORMULA ONE TEAM
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+All of the underfloor changes achieve greater local
+Performance - The profiles of the floor fences and the shape of the
+1 Floor Body load from the underfloor whilst maintaining or
+Local Load underfloor have been updated.
+improving the flow quality downstream.
+In combination with the above changes, the Floor
+Performance - The profile & incidence of the Floor Edge & wing has
+2 Floor Edge Edge Wing has been modified to increase loading of
+Local Load been modified.
+the underfloor.
+
+STAKE F1 TEAM KICK SAUBER
+Primary
+Updated Geometric differences compared to Brief description on how the update
+reason for
+component previous version works
+update
+The new floor, with extended fences and
+Performance - New design of the floor body and edges, mostly in redesigned front and middle parts, improves the
+1 Floor Body
+Flow Conditioning the front and middle sections airflow and the stability of the car, improving
+aerodynamic efficiency of the whole package.
+
+MONEYGRAM HAAS F1 TEAM
+No updates submitted for this event.

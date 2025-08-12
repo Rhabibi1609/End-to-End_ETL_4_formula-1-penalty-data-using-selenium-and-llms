@@ -1,0 +1,84 @@
+2024 AUSTRALIAN GRAND PRIX
+22 - 24 March 2024
+From The FIA Formula One Media Delegate Document 9
+To All Teams, All Officials Date 22 March 2024
+Time 10:24
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 24_AUS Car Presentation Submissions .pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+CAR PRESENTATION – AUSTRALIAN GRAND PRIX
+ORACLE RED BULL RACING
+No updates submitted for this event.
+MERCEDES-AMG PETRONAS FORMULA ONE TEAM
+No updates submitted for this event.
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Not specific to the Albert Park circuit layout
+Performance - aerodynamic efficiency requirements, the addition
+1 Rear Wing Addition of rear wing pylon side winglets
+Local Load of pylon winglets is a minor update and offers a
+small increase of local aerodynamic load.
+
+MCLAREN FORMULA 1 TEAM
+No updates submitted for this event.
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The revised twist changes the loading distribution
+Performance -
+1 Front Wing The front wing flap has a revised twist distribution. across the span of the front wing for improved car
+Local Load
+performance.
+
+BWT ALPINE F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The single element beam wing component generates This beam wing variant allows a further drag
+Circuit specific -
+1 Beam Wing less downforce and drag than the biplane assembly reduction if deemed optimum for overall lap time
+Drag Range
+due to the removal of the upper element. for a given circuit.
+
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The exit scoop of the rear brake duct has changed in The revised scoop/winglet system offers a small
+size. The length, position and camber of the winglet increase in local load and has also has a small effect
+Performance -
+1 Rear Corner cluster that sits below the exit are all subtlely, and to the local flow field. The additional load is
+Local Load
+sympathetically, updated so that the whole system efficient relative to any drag change and the net
+works correctly together. result is a higher vertical load on the rear tyres.
+
+VISA CASH APP RB FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Performance - Compared to Race 01, rear wing profiles have been Improved efficient load generation & target drag
+1 Rear Wing
+Local Load redesigned to improve Cp profiles level for event.
+
+KICK SAUBER F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The redesigned front wing elements, in conjunction
+Performance -
+1 Front Wing Redesigned third and fourth front wing elements with the new endplate introduced in this race,
+Flow Conditioning
+improve the car's overall aerodynamic efficiency.
+The redesigned front wing enplates, in conjunction
+Front Wing Performance -
+2 Adjusted front wing endplate with the new elements introduced in this race,
+Endplate Flow Conditioning
+improve the car's overall aerodynamic efficiency.
+
+MONEYGRAM HAAS F1 TEAM
+No updates submitted for this event.

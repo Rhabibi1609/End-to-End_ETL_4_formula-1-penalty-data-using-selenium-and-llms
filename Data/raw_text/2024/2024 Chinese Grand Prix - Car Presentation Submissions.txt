@@ -1,0 +1,94 @@
+2024 CHINESE GRAND PRIX
+19 - 21 April 2024
+From The FIA Formula One Media Delegate Document 6
+To All Teams, All Officials Date 19 April 2024
+Time 08:52
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2024 Chinese Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Japanese Grand Prix
+ORACLE RED BULL RACING
+No updates submitted for this event.
+MERCEDES-AMG PETRONAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Generates small vortices, which help control the
+Performance - Small flick added either side of the cockpit, behind
+1 Halo flow out of the cockpit, and in doing so improve
+Flow Conditioning the Halo.
+flow to the rear wing assembly.
+
+SCUDERIA FERRARI
+No updates submitted for this event.
+MCLAREN FORMULA 1 TEAM
+No updates submitted for this event.
+ASTON MARTIN ARAMCO FORMULA ONE TEAM
+No updates submitted for this event.
+BWT ALPINE F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Performance - Revised flow around the rear corner improves flow
+1 Floor Body Revised diffuser letterbox in the diffuser sidewall.
+Flow Conditioning control around the rear tyre.
+Performance - Significant change from flow to front of the floor
+2 Floor Fences Heavily revised inboard front floor fence geometry.
+Local Load gives an increase in overall downforce.
+Performance - Different flow around the floor edge effecting
+3 Floor Edge Revised floor edge wing.
+Flow Conditioning performance further down the car.
+
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The new geoemtry cleans-up the flow around the
+HALO and better controls the losses from the
+Performance - The geometry of the forward part of the HALO
+1 Halo cockpit opening. This helps improve the flow to the
+Flow Conditioning shroud is updated.
+rear wing and beam wing and gives a small increase
+in aerodynamic efficiency.
+
+VISA CASH APP RB FORMULA ONE TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Performance - The area of the headrest behind the driver's helmet Airflow separation behind the driver's helmet is
+1 Headrest
+Flow Conditioning has been reshaped. reduced, improving the flow quality downstream.
+Headrest
+STAKE F1 TEAM KICK SAUBER
+No updates submitted for this event.
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason for
+Geometric differences compared to previous version Brief description on how the update works
+component update
+The new layout improves floor extraction and works in
+Performance - Flow
+1 Floor Fences Improved alignment of the front floor fences combination with the new floor later edge, resulting in
+Conditioning
+more downforce.
+This new geometry is designed to work in combination
+Performance - Local
+2 Floor Edge Re-alignment of the floor edge devices with the new front floor fences, with the aim to
+Load
+improve drivability.
+This configuration allows improved performance all
+Coke/Engine Performance - Drag
+3 Slimmer centre exit with larger cooling louver layout over the cooling polar slope, as it reduces the lower
+Cover reduction
+energy flow impacting the rear end of the car.
+The incidence change on the rear corner elements
+Performance - Flow
+4 Rear Corner Rear Corner devices incidence change improves the local flow features, resulting in an
+Conditioning
+increase in local load.
+The new design shrinks the frontal size of the Mirror
+Performance - Flow
+12 Mirror Slimmer Mirror housing and therefore reduces its wake, minimizing the impact
+Conditioning
+on the rear of the car.

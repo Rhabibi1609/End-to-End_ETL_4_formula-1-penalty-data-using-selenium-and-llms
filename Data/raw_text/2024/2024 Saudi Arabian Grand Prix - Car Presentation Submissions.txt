@@ -1,0 +1,134 @@
+2024 SAUDI ARABIAN GRAND PRIX
+07 - 09 March 2024
+From The FIA Formula One Media Delegate Document 9
+To All Teams, All Officials Date 07 March 2024
+Time 14:20
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 24_SAU Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Saudi Arabian Grand Prix
+ORACLE RED BULL RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+given the average speed of Jeddah as well as the
+Coke/Engine Circuit specific - bodywork panel forming a suspension aperture and absence of a series of low speed corners, the
+1
+Cover Cooling Range cooling exit has been reduced in exit size cooling exit area can be redued whilst keeping the
+PU within its operational limits.
+At a given speed, the wing has less aerodynaamic
+load and therefore drag than the design used in
+Circuit specific - A lower camber rear wing assembly to suit the
+2 Rear Wing Bahrain, hence the phrase lower drag rear wing.
+Drag Range lift/drag requirements.
+Ultimately the PU will balance out against the drag,
+albeit at a higher air speed.
+Circuit specific - Again aimed at a lower drag level for a given air
+3 Beam Wing A reduced camber beam or lower rear wing
+Drag Range speed as expalined above.
+
+MERCEDES-AMG PETRONAS F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Reduced loading on the forward element, which
+Performance -
+1 Rear Corner Lower deflector rotation leads to improved robustness of the lower deflector
+Local Load
+throughout the ride height range.
+
+SCUDERIA FERRARI
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Fully carried over from 2023 car and specific to
+lower downforce tracks, this update features
+Circuit specific -
+1 Rear Wing Lower downforce top rear wing design depowered Top Rear Wing profiles in order to
+Drag Range
+adapt to Jeddah circuit layout peculiarities and
+efficiency requirements
+As for the top Rear Wing update, these modulations
+Circuit specific - Depowered lower beam. 2 variations will be made
+2 Beam Wing are targetting the optimum aerodynamic efficiency
+Drag Range available, including single element arrangement
+around Jeddah circuit layout peculiarities
+
+MCLAREN F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+New lower Drag Rear Wing Assembly, with an
+Circuit specific -
+1 Rear Wing Lower Drag Rear Wing Assembly offloaded Mainplane and Flap, resulting in an
+Drag Range
+efficient reduction of Downforce and Drag.
+This new Beamwing Geometry features a new
+upper and lower element, which, as a result of the
+Circuit specific -
+2 Beam Wing New upper and lower Beamwing Element interaction with the upper Rear Wing assembly,
+Drag Range
+leads to an efficient reduction of Downforce and
+Drag.
+
+ASTON MARTIN ARAMCO COGNIZANT F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Revised scoop shape with inlet and exit changes. The geometry modifies the flow around the tyre
+Performance -
+1 Front Corner Also incorporates modified stays to the rear and improves the wake shape to reduce the effect
+Flow Conditioning
+deflector. on the parts of the car downstream.
+Part of standard development to provide a wing
+Circuit specific - Less aggressive rear wing cascade, with two different
+2 Rear Wing with less load and hence drag to suit the
+Drag Range flap options.
+characteristics of this circuit.
+
+BWT ALPINE F1 TEAM
+No updates submitted for this event.
+WILLIAMS RACING
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+The reduction in size of the beam wing simply
+Circuit specific - A trim to the trailing edge of the wing to reduce the reduces the downforce and drag of the rear wing
+1 Beam Wing
+Drag Range chord length. assembly to deliver a drag level appropriate for the
+Jeddah circuit.
+The smaller duct exit limits the cooling flow rate
+A smaller exit for the front brake duct is available.
+Circuit specific - through the front brake system. This adjusts the
+2 Front Corner This reduces the exit area relative to the version
+Cooling Range brake temperatures into a range that suits the
+used in Bahrain.
+Jeddah circuit.
+
+VISA CASH APP RB F1 TEAM
+Updated Primary reason Geometric differences compared to previous
+Brief description on how the update works
+component for update version
+Coke/Engine Performance - Compared to Race 01, the shape & slope of the top Flow quality passing over the bodywork is improved
+1
+Cover Flow Conditioning deck of the bodywork has been modified. before it passes to the rear of the car.
+Compared to Race 01, cooling louvres are created on
+Cooling Circuit specific -
+2 the top-deck of the bodywork to increase cooling Increase airflow through the radiators.
+Louvres Cooling Range
+range. Optional.
+Circuit specific - Flap chord trim to tune balance range for lower rear Front wing load is reduced by reducing the loaded
+3 Front Wing
+Balance Range wing levels. Optional. area of the flap.
+Rear wing load and drag is reduced by
+Circuit specific - Reduced camber and incidence rear wing to adjust
+3 Rear Wing aerodynamically unloading the upper rear wing
+Drag Range drag level. Optional.
+elements.
+
+STAKE F1 TEAM KICK SAUBER
+No updates submitted for this event.
+MONEYGRAM HAAS F1 TEAM
+No updates submitted for this event.

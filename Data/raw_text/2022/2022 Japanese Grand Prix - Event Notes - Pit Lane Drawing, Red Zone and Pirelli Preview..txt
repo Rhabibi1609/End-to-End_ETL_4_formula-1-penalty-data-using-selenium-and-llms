@@ -1,0 +1,282 @@
+2022 JAPANESE GRAND PRIX
+06 - 09 October 2022
+From The FIA Formula One Race Director Document 2
+To All Teams, All Officials Date 06 October 2022
+Time 13:50
+Title Event Notes - Pit Lane Drawing, Red Zone and Pirelli Preview.
+Description Event Notes - Pit Lane Drawing, Red Zone and Pirelli Preview.
+Enclosed JPN DOC 2 - Event Notes - Pit Lane Drawing - Red Zone and Pirelli Preview.pdf
+Eduardo Freitas
+The FIA Formula One Race Director
+sdnE
+ENAL
+TIP
+stratS
+ENAL
+TIP
+2
+eniL
+RAC
+YTEFAS
+neraLcM
+sedecreM
+MOF
+sedecreM
+thgil
+eulB
+morf
+detarepo(
+)yrtnag
+trats
+segaraG
+detangiseD
+saerA
+egaraG
+saaH
+oemoR
+aflA
+smailliW
+iruaTahplA
+eniplA
+irarreF
+lluB
+deR
+ENAL
+TSAF
+ENAL
+TSAF
+lennosreP
+maeT
+)YLNO
+tratS
+ecaR(
+2202
+rebotcO
+6–
+2
+noisreV
+rewoT lortnoC
+AIF
+AIF
+AIF
+AIF
+MOF
+saaH
+saaH
+saaH
+saaH
+oemoR aflA
+oemoR aflA
+oemoR aflA
+oemoR aflA
+smailliW
+smailliW smailliW
+smailliW
+nitraM notsA
+nitraM notsA
+nitraM notsA
+nitraM notsA
+iruaTahplA
+iruaTahplA
+iruaTahplA
+iruaTahplA
+yawklaW
+MOF
+MOF
+eniplA
+eniplA
+neraLcM
+neraLcM
+neraLcM
+neraLcM
+irarreF
+irarreF
+irarreF
+irarreF
+lluB deR
+lluB deR
+lluB deR
+lluB deR
+sedecreM
+MOF
+MOF
+MOF
+MOF
+45
+35
+25
+15
+05
+94
+84
+74
+64
+54
+44
+34
+24
+14
+04
+93 83
+73
+63
+53
+43
+33
+23
+13
+03
+92
+82
+72
+62
+52
+42
+32
+22
+12
+02
+91
+81
+71
+61
+51
+41
+31
+21
+11
+01
+9
+8
+7
+6
+5
+4
+3
+2
+1
+AIF 55
+eniplA
+eniplA
+enaL
+tiP
+xirP
+dnarG
+esenapaJ
+2202
+X
+RAC
+YTEFAS
+paL
+tsriF
+RAC
+YTEFAS
+ecaR
+X
+YRTNE
+TIP
+yrtnE
+tiP
+MORF
+DEREVOCER
+SRAC
+slenap
+sutatS
+EREH
+DECALP
+KCART
+TIXE
+TIP
+1
+eniL
+RAC
+YTEFAS
+drallob
+yrtnE
+tiP
+dna
+potS
+tiP
+notsA
+noitisoP
+nitraM
+eniL
+lortnoC
+noitisoP
+eloP
+MOF
+sedecreM
+sedecreM
+draob
+m05
+ta
+sdne
+eniL
+dedda
+sotohp
+wen–
+2V
+
+In agreement with the FIA and in accordance with Article 24.4 a) of the F1 Sporting Regulations, this document contains the prescriptions for
+the operation of tyres during the following event.
+Document version: 2 issue: A
+Grand Prix of Japan 07/10-09/10/2022 (22R18SUZ)
+Compounds selection
+Compound FL FR RL RR Mandatory race tyres
+C1 1X1 1X2 1X3 1X4 C1
+C2 2G1 2G2 2G3 2G4 C2
+C3 3Z1 3Z2 3Z3 3Z4
+Intermediate 9G1 9G2 9G3 9G4 Q3 tyre
+Wet 95B 96B 97B 98B C3
+Prescriptions
+Pressures & camber
+Cold Pressure Cooling Curve
+26
+24 Pfront = (T - 70) · 0.124 + Pstartf
+22
+20 Prear = (T - 70) · 0.118+ Pstartr
+18
+16
+Pstartf: Minimum starting pressure on
+14 the front axle [psi]
+12 Pstartr: Minimum starting pressure on
+10 the rear axle [psi]
+T: Tyre temperature [°C]
+8
+0 10 20 30 40 50 60 70
+Maximum heating times and temperatures (tread & sidewall)
+Tyres notes
+• Not permitted to switch tyres from their originally allocated position. • Heating time temperature limits apply to the actual tyre surface
+temperature measured with the IR gun as detailed in the TD003
+• Do not subject tyres to large deformation or heavy impact.
+• Cold cooling curve temperature limits apply to the tyre side wall
+• Do not leave fitted tyres exposed at an air temperature lower than 10°C temperature measured with the probe as detailed in TD003
+and/or any excessive UV emission.
+• BLANKET HEATING TIME for each temperature range to be counted from
+• Revised prescriptions could be issued during the race weekend in the moment the blanket control unit is set to reach its targeted temperature
+accordance with TD003. within its correspondent interval.
+General notes
+Teams are kindly reminded that the following will be subject to FIA checks during the event:
+• Starting pressures
+• Cold pressures (according to the cold pressure cooling curves)
+• Re-heat pressures
+• EOS Camber
+• Maximum tyre temperatures and times in blankets
+• Tyre swapping
+]isp[
+erusserP
+Minimum starting pressure Expected stabilized
+Camber limit
+Slicks Intermediate Wet running pressure
+Front 25.0 psi 25.0 psi 24.0 psi ≥27.5 psi -2.75°
+Rear 23.0 psi 23.0 psi 22.0 psi ≥25.5 psi -1.50°
+Front pressure
+Rear pressure
+Temperature [°C]
+Temperature 0 40 60 70 (°C)
+Slicks max. 3h
+Intermediate max. 2h
+Wet max. 2h
+• Temperatures refer to tyre tread and side wall temperatures, not blanket or controller set-point temperatures.
+• Tyres may only be heated prior to the session in which they are intended to be used.
+• The temperatures apply at all times during the event.

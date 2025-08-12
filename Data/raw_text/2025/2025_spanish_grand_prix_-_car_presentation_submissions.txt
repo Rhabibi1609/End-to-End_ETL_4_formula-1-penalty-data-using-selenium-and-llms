@@ -1,0 +1,176 @@
+2025 SPANISH GRAND PRIX
+30 May - 01 June 2025
+From The FIA Formula One Media Delegate Document 8
+To All Teams, All Officials Date 30 May 2025
+Time 10:56
+Title Car Presentation Submissions
+Description Car Presentation Submissions
+Enclosed 2025 Spanish Grand Prix - Car Presentation Submissions.pdf
+Roman De Lauw
+The FIA Formula One Media Delegate
+Car Presentation – Spanish Grand Prix
+McLaren Formula 1 Team
+No updates submitted for this event.
+Car Presentation – Spanish Grand Prix
+*SCUDERIA FERRARI HP*
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+Not track specific, this front wing introduction is
+Update of chordwise and spanwise loading
+Performance - phased with the update of the articles 3.15.4 and
+1 Front Wing distribution of the wing elements, together with a
+Local Load 3.15.5 of the technical regulations, effective from
+revised endplate and outboard tip rolls
+the Spanish Grand Prix onwards
+The high downforce top rear wing, carried over
+from 2024 and made available in Imola, received a
+Circuit specific - Redesign of the outboard tip and roll on the high
+2 Rear Wing local update to the outboard tip and roll
+Drag Range downforce top rear wing
+geometries. Local flow features are improved,
+returning an efficient load increase.
+
+Car Presentation – Spanish Grand Prix
+Red Bull Racing
+In order to comply with the revisions to the 2025 F1
+First and second elements revised primarily in Technical Regulations applicable from the Spanish
+Performance -
+1 Front wing section. Flap elements and tips are consequential to GP, the front wing geometry has been revised to
+Local Load
+the first two elements. gain stiffness at minimal weight cost and then
+iterated to pursue the load characteristics sought.
+
+Car Presentation – 2025 Spanish Grand Prix
+*Mercedes-AMG PETRONAS F1 Team*
+Updated Primary reason for Geometric differences compared to Brief description on how the update works
+component update previous version (min 20, max 100 words)
+Additional vane elements and flap chord increases
+Increased chord floor edge wing with additional mass flow under forward floor, increasing vorticity
+1 Floor Edge Performance – Local Load
+vanes shed from the fence system, increasing floor load.
+New fence profile has improved local pressure
+Performance - Flow distribution and position of vorticity, improving both
+2 Floor Fences Reprofiled inboard fence
+Conditioning local and downstream load through better onset flow.
+Circuit specific rear wing, with increased camber
+aimed at gaining local downforce and drag along an
+3 Rear Wing Performance - Local Load Reprofiled mainplane and flap elements
+efficiency slope appropriate for Barcelona.
+
+Car Presentation – Spanish Grand Prix
+Aston Martin Aramco F1 Team
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+The revised tip detail improves the flowfield around
+Revised tip detail between the front wing elements
+Performance - the outboard end of the wing increasing the load
+1 Front Wing and the endplate. Main wing sections also revised
+Local Load generated in that area. Changes in section are for
+for compliance with TD018H.
+structural reasons.
+
+Car Presentation – Spanish Grand Prix
+BWT Alpine F1 Team
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+The floor fences have been optimised locally to
+Performance – improve the quality of the underfloor structures.
+1 Floor Fences Reprofiled floor fences
+Local load This results in an improved flow delivery to the
+entire floor and generates local load.
+Local and subtle modifications have been done to
+Performance –
+2 Floor Body Local changes to the shape of the floor the floor to maximise the effect of the updated
+Local load
+fences and improve the flowfield quality.
+
+Car Presentation – 2025 Spanish Grand Prix
+MONEYGRAM HAAS F1 TEAM
+Updated Primary reason for Geometric differences compared to previous Brief description on how the update works (min
+component update version 20, max 100 words)
+1 Front Wing Performance - Updated Front Wing Construction The 2025 Technical Regulations were updated on
+Mechanical Setup April 7th to include more stringent FW flap
+deflection requirements, effective from May 28th.
+Consequently, a new FW construction was
+necessary to comply with these new requisites.
+
+Car Presentation – Spanish Grand Prix
+Visa Cash App Racing Bulls
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+The centre section of the wing is loaded further
+relative to the outboard, modifying the
+Performance - The elements of the mainplane are new, featuring a
+1 Front Wing downstream flow conditions. This update also
+Flow Conditioning lower central section.
+addresses the increased FW stiffness requirements
+for race 09 onwards.
+The flow around the FW tips is highly three-
+Front Wing Performance - The connection between the tips & the FWEP has dimensional. The revised detail around the tips
+2
+Endplate Flow Conditioning been updated. helps to reduce the losses created from this flow
+field.
+The nose tip drops down to meet the new FW
+sections, whilst the raised lower surface helps to
+Performance - The lower surface of the nose has been raised whilst
+3 Nose increase the load generated by the centre section
+Flow Conditioning the tip has been lowered.
+of the wing, which in turn modifies the downstream
+flow around the car.
+
+Car Presentation – SPAIN Grand Prix
+*ATLASSIAN WILLIAMS RACING*
+Updated Primary reason Geometric differences compared to previous Brief description on how the update works (min 20,
+component for update version max 100 words)
+The front wing assembly is updated to satisfy the new
+The combined geometric and construction changes reduce
+deflection regulations. In addition, we have taken the
+the deflection to adhere to the latest regulations. The
+Performance - opportunity to update the geometry of the rearward flap
+1 Front Wing geometric updates alter the flow pattern off the front wing
+Flow Conditioning and FWEP. The outboard section of the rearward flap has
+and change the performance of both the front brake duct
+a more backed-off profile, and the vertical section of the
+furniture and the forward floor.
+endplate has a revised camber geometry.
+The revised exit geometry changes the flow rate through the
+Circuit specific - There is a revised exit geometry for the rear brake duct,
+2 Rear Corner brake duct and affects the brake cooling in a way that is
+Cooling Range which constricts the flow through the brake duct.
+suitable for the braking demands of Barcelona.
+This update simply increases the flow through the radiators
+A new optional cooling louvre panel is available for this and therefore increases the PU cooling at the cost of
+Circuit specific -
+3 Cooling Louvres event. It increases the number of large louvres to the downforce and drag. This will be our new maximum cooling
+Cooling Range
+maximum that the panel can accommodate. setup, which may be of use in Barcelona, but is more likely
+to be needed later in the season.
+
+Car Presentation – Spanish Grand Prix
+KICK Sauber F1 Team
+Updated Primary reason Geometric differences compared to Brief description on how the update works
+component for update previous version (min 20, max 100 words)
+Performance - Modifications are targeted at improved flow field
+Changes to several areas of the floor: Floor fence,
+1 Floor Body
+conditions for the underfloor from front to back,
+Local Load
+outboard floor edge and diffuser.
+gaining some efficient and balanced downforce.
+Sidepod surfaces have been updated to adapt to
+Coke/Engine Performance -
+the new floor developments and associated
+2
+Changes to engine cover design.
+Cover Local Load
+interactions, modifying floor top surface flow
+conditions.
+Local front wing end plate developments to
+Small change to the transition between the
+Performance -
+improve outboard front wing performance and
+3 Front Wing
+mainplane and the front wing endplate.
+Local Load
+efficiency and also encourage better downstream
+flow quality.
