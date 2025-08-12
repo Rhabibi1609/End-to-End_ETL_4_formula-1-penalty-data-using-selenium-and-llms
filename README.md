@@ -1,5 +1,3 @@
-# End-to-End_ETL_4_formula-1-penalty-data-using-selenium-and-llms
--
 # F1 Penalty Analysis: An ETL Pipeline for FIA Documents
 
 This project automates the collection, structuring, and analysis of FIA stewards' decisions for the Formula 1 World Championship (2022–2025). It employs an end-to-end ETL (Extract, Transform, Load) pipeline that scrapes over 3,500 PDF documents from the FIA's dynamic website, converts them to text, and uses Large Language Models (LLMs) to extract structured data into a clean, analyzable format.
@@ -21,16 +19,16 @@ The project is structured as a sequential ETL pipeline. Each stage produces an o
 
 ```mermaid
 flowchart TD
-    A[Start] --> B(Step 1: Scrape PDFs<br/><br/><b>01_scraper.py</b>);
-    B --> C{PDF Documents<br/><br/><i>/data/pdfs/{year}/{gp}</i>};
-    C --> D(Step 2: Convert PDFs to Text<br/><br/><b>02_pdf_to_text.py</b>);
-    D --> E{Raw Text Files<br/><br/><i>/data/raw_text/{year}/{gp}</i>};
+    A[Start] --> B(Step 1: Scrape PDFs<br><b>01_scraper.py</b>);
+    B --> C([PDF Documents<br>/data/pdfs/{year}/{gp}]);
+    C --> D(Step 2: Convert PDFs to Text<br><b>02_pdf_to_text.py</b>);
+    D --> E([Raw Text Files<br>/data/raw_text/{year}/{gp}]);
     E --> F{Step 3: Annotate Text with LLM};
-    F --> G(<b>Option A:</b><br/>Ollama/LLaMA 3.2<br/><br/><b>03a_annotator_ollama.py</b>);
-    F --> H(<b>Option B:</b><br/>Google Gemini 2.0<br/><br/><b>03b_annotator_gemini.py</b>);
-    G --> I{Structured CSV Data<br/><br/><i>/data/annotations/</i>};
+    F --> G(<b>Option A:</b><br>Ollama/LLaMA 3.2<br><b>03a_annotator_ollama.py</b>);
+    F --> H(<b>Option B:</b><br>Google Gemini 2.0<br><b>03b_annotator_gemini.py</b>);
+    G --> I([Structured CSV Data<br>/data/annotations/]);
     H --> I;
-    I --> J(Step 4: Analyze Data Quality<br/><br/><b>04_eda.py</b>);
+    I --> J(Step 4: Analyze Data Quality<br><b>04_eda.py</b>);
     J --> K[End];
 
     style C fill:#f9f,stroke:#333,stroke-width:2px
