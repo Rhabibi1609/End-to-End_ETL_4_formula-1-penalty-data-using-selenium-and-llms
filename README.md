@@ -234,9 +234,9 @@ A utility script for Exploratory Data Analysis (EDA). It loads the final annotat
 ```mermaid
 flowchart TD
     A[Start] --> B(Load CSV into Pandas DataFrame);
-    B --> C(Print DataFrame Info - df.info());
-    C --> D(Print first 5 rows - df.head());
-    D --> E(Print missing value counts - df.isnull().sum());
+    B --> C(Print DataFrame Info);
+    C --> D(Print first 5 rows );
+    D --> E(Print missing value counts - );
     E --> F(Loop through each column);
     F -- For each column --> G(Print data type and number of unique values);
     G --> F;
