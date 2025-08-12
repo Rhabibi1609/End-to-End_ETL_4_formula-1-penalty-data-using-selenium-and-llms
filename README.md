@@ -73,7 +73,7 @@ The project uses a structured directory to separate source code from data at var
 
 1.  **Clone the Repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone <repository-url>
     cd <repository-name>
     ```
 
