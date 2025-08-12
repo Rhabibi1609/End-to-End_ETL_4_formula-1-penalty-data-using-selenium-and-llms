@@ -20,9 +20,9 @@ The project is structured as a sequential ETL pipeline. Each stage produces an o
 ```mermaid
 flowchart TD
     A[Start] --> B(Step 1: Scrape PDFs<br><b>01_scraper.py</b>);
-    B --> C([PDF Documents<br>/data/pdfs/{year}/{gp}]);
+    B --> C([PDF Documents<br>/data/pdfs/year/gp]);
     C --> D(Step 2: Convert PDFs to Text<br><b>02_pdf_to_text.py</b>);
-    D --> E([Raw Text Files<br>/data/raw_text/{year}/{gp}]);
+    D --> E([Raw Text Files<br>/data/raw_text/year/gp]);
     E --> F{Step 3: Annotate Text with LLM};
     F --> G(<b>Option A:</b><br>Ollama/LLaMA 3.2<br><b>03a_annotator_ollama.py</b>);
     F --> H(<b>Option B:</b><br>Google Gemini 2.0<br><b>03b_annotator_gemini.py</b>);
@@ -161,17 +161,17 @@ flowchart TD
     C --> D{Cookie Banner?};
     D -- Yes --> E(Click 'Accept All');
     D -- No --> F;
-    E --> F(Find all Grand Prix `<ul>` panels);
+    E --> F(Find all Grand Prix panels);
     F --> G(Loop through each panel);
     G -- For each panel --> H(Click panel to expand & load documents);
     H --> I(Wait for content to load);
     I --> G;
     G -- After loop --> J(Save full page HTML source);
     J --> K(Parse saved HTML with BeautifulSoup);
-    K --> L(Find all `<a>` tags with PDF links);
+    K --> L(Find all a tags with PDF links);
     L --> M{Loop through links};
     M -- For each link --> N(Extract Year and GP name from URL);
-    N --> O(Create destination folder: `data/pdfs/{year}/{gp}`);
+    N --> O(Create destination folder: data/pdfs/year/gp);
     O --> P(Download and save PDF file);
     P --> M;
     M -- After loop --> Q[End: All PDFs downloaded];
@@ -210,14 +210,14 @@ The Gemini version (`03b`) includes more refined logic for checking previously p
 flowchart TD
     A[Start] --> B(Initialize LangChain with LLM and Prompt);
     B --> C(Check CSV for already processed files);
-    C --> D(Create a `set` of processed filenames);
+    C --> D(Create a set of processed filenames);
     D --> E(Get a list of all .txt files in the input folder);
-    E --> F(Filter out processed files to get a `to_process` list);
-    F --> G{Loop through files in `to_process` list};
+    E --> F(Filter out processed files to get a to_process list);
+    F --> G{Loop through files in to_process list};
     G -- For each file --> H(Read text content from file);
     H --> I{Invoke LLM Chain w/ Retry Logic};
     I -- Success --> J(Clean and Parse JSON response);
-    J --> K(Add `source_file` name to each record);
+    J --> K(Add source_file name to each record);
     K --> L(Append new records to output CSV);
     L --> M(Wait/Cooldown period);
     M --> G;
@@ -234,9 +234,9 @@ A utility script for Exploratory Data Analysis (EDA). It loads the final annotat
 ```mermaid
 flowchart TD
     A[Start] --> B(Load CSV into Pandas DataFrame);
-    B --> C(Print DataFrame Info - `df.info()`);
-    C --> D(Print first 5 rows - `df.head()`);
-    D --> E(Print missing value counts - `df.isnull().sum()`);
+    B --> C(Print DataFrame Info - df.info());
+    C --> D(Print first 5 rows - df.head());
+    D --> E(Print missing value counts - df.isnull().sum());
     E --> F(Loop through each column);
     F -- For each column --> G(Print data type and number of unique values);
     G --> F;
