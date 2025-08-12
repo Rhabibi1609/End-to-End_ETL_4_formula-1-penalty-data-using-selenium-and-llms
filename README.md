@@ -31,7 +31,7 @@ flowchart TD
     I --> J(Step 4: Analyze Data Quality<br><b>04_eda.py</b>);
     J --> K[End];
 
-    style C fill:#f9f,stroke:#333,stroke-width:2px
+    style C fill:#002F65,stroke:#333,stroke-width:2px
     style E fill:#f9f,stroke:#333,stroke-width:2px
     style I fill:#f9f,stroke:#333,stroke-width:2px
 ```
